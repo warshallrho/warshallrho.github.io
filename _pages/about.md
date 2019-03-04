@@ -52,7 +52,7 @@ OPEN SOURCE PROJECTS
 
 
 
-SELECTIVE HONORS AND AWARDS
+SELECTED HONORS AND AWARDS
 ------
 - May Fourth Scholarship (15 / 330), *Peking University, 2018*
 - Academic Excellence Award, *Peking University, 2018*
