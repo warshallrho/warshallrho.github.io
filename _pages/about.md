@@ -52,6 +52,9 @@ OPEN SOURCE PROJECTS
 - TensorFlow-based deep learning library
 - one of the four collaborators
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/tensorlayer/tensorlayer/master/img/tl_transparent_logo.png">
+</p>
 
 
 
