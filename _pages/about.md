@@ -53,7 +53,7 @@ OPEN SOURCE PROJECTS
 - one of the four collaborators
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/tensorlayer/tensorlayer/master/img/tl_transparent_logo.png">
+    <img src="https://warshallrho.github.io/images/tl_transparent_log.png">
 </p>
 
 
