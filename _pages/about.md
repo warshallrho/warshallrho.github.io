@@ -27,9 +27,6 @@ I am a junior student majoring in Computer Science at Peking University. My rese
 
 <p align="center">
     <img src="https://warshallrho.github.io/images/relation.png">
-    <p align="center">
-        <em>relation</em>
-    </p>
 </p>
 
 ### Human Attribute Recognition, Video Group in Megvii(Face++) Research
@@ -38,9 +35,6 @@ I am a junior student majoring in Computer Science at Peking University. My rese
 
 <p align="center">
     <img src="https://warshallrho.github.io/images/attribute.png">
-    <p align="center">
-        <em>attribute</em>
-    </p>
 </p>
 
 
