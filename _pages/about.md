@@ -24,14 +24,18 @@ RESEARCH PROJECTS
 
 - To describe all interacting objects in an image using subject-predicate-object triplets (for example, person play guitar).
 
-![attribute](/images/relation.png)
+<p align="center">
+    <img src="https://warshallrho.github.io/images/relation.png">
+</p>
 
 
 ### Human Attribute Recognition, Video Group in Megvii(Face++) Research
 
 - To recognize human attributes (hat, bicycle, glasses, etc.) in videos.
 
-![attribute](/images/attribute.png)
+<p align="center">
+    <img src="https://warshallrho.github.io/images/attribute.png">
+</p>
 
 
 
