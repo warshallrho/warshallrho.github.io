@@ -22,7 +22,7 @@ RESEARCH PROJECTS
 ------
 ### Visual Relation Detection, Machine Intelligence Lab, Peking University
 
-- To describe all interacting objects in an image using subject-predicate-object triplets (for example, person play guitar).
+- To describe all interacting objects in an image using subject-predicate-object triplets.
 
 <p align="center">
     <img src="https://warshallrho.github.io/images/relation.png">
@@ -31,7 +31,7 @@ RESEARCH PROJECTS
 
 ### Human Attribute Recognition, Video Group in Megvii(Face++) Research
 
-- To recognize human attributes (hat, bicycle, glasses, etc.) in videos.
+- To recognize human attributes in videos.
 
 <p align="center">
     <img src="https://warshallrho.github.io/images/attribute.png">
