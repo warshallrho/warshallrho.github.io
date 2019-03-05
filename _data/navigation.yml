@@ -6,6 +6,9 @@ main:
 
   - title: "Human Attribute Recognition"
     url: /HAR/
+
+  - title: "Books"
+    url: /Books/
     
 #  - title: "Publications"
 #    url: /publications/
