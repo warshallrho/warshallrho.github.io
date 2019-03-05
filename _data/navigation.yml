@@ -1,5 +1,12 @@
 # main links links
 main:
+
+  - title: "Visual Relation Detection"
+    url: /VRD/
+
+  - title: "Human Attribute Recognition"
+    url: /HAR/
+    
 #  - title: "Publications"
 #    url: /publications/
 
