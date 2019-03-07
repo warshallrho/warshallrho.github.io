@@ -12,7 +12,7 @@ redirect_from:
 
 ABOUT ME
 ------
-I am a junior student majoring in Computer Science at Peking University. My research interests are in Computer Vision, Deep Learning, and Machine Learning.
+I am a junior student majoring in Computer Science at Peking University. My research interests include computer vision, deep learning, and machine learning.
 
 I am currently an undergraduate member in Machine Intelligence Lab, Peking University, supervised by [Prof. Yadong Mu](http://www.muyadong.com). In the summer of 2018, I worked as a research intern in [Face++](https://www.faceplusplus.com/). From March 21, 2019, I will work as a research intern in [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/).
 
