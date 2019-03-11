@@ -7,6 +7,9 @@ main:
   - title: "Human Attribute Recognition"
     url: /HAR/
 
+  - title: "TensorLayer 2.0"
+    url: /TL/
+
   - title: "Spreadsheet Intelligence"
     url: /SI/
 
