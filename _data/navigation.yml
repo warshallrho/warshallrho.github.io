@@ -7,6 +7,9 @@ main:
   - title: "Human Attribute Recognition"
     url: /HAR/
 
+  - title: "Spreadsheet Intelligence"
+    url: /SI/
+
   - title: "Books"
     url: /Books/
     
