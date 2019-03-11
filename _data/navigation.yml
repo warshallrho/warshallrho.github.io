@@ -10,8 +10,8 @@ main:
   - title: "TensorLayer 2.0"
     url: /TL/
 
-  - title: "Spreadsheet Intelligence"
-    url: /SI/
+#  - title: "Spreadsheet Intelligence"
+#    url: /SI/
 
   - title: "Books"
     url: /Books/
