@@ -42,7 +42,7 @@ RESEARCH PROJECTS
 </p>
 
 
-### Spreadsheet Intelligence, Data Knowledge Intelligence Group (DKI) in Microsoft Research Asia
+### Spreadsheet Intelligence, Data Knowledge Intelligence Group in Microsoft Research Asia
 
 - https://www.microsoft.com/en-us/research/project/spreadsheet-intelligence/
 
