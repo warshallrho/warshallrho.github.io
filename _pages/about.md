@@ -14,7 +14,7 @@ ABOUT ME
 ------
 I am a junior student majoring in Computer Science at Peking University. My research interests include computer vision, deep learning, and machine learning.
 
-I am currently a member in Machine Intelligence Lab, Peking University, supervised by [Prof. Yadong Mu](http://www.muyadong.com). In the summer of 2018, I worked as a research intern in [Face++](https://www.faceplusplus.com/). From March 21, 2019, I will work as a research intern in [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/).
+I am currently a member in Machine Intelligence Lab, Peking University, supervised by [Prof. Yadong Mu](http://www.muyadong.com). At the same time, I am a research intern in [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/). In the summer of 2018, I worked as a research intern in [Face++](https://www.faceplusplus.com/).
 
 My CV is [here](https://warshallrho.github.io/files/CV_RuihaiWu.pdf).
 
@@ -42,10 +42,9 @@ RESEARCH PROJECTS
 </p>
 
 
-### Spreadsheet Intelligence, Microsoft Research Asia
+### Spreadsheet Intelligence, Data Knowledge Intelligence Group (DKI) in Microsoft Research Asia
 
 - https://www.microsoft.com/en-us/research/project/spreadsheet-intelligence/
-- Will participate in this research project from 3.21, 2019.
 
 
 <p align="center">
