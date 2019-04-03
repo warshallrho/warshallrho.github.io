@@ -71,10 +71,11 @@ OPEN SOURCE PROJECTS
 
 SELECTED HONORS AND AWARDS
 ------
+- Champion Team, China Collegiate Group Programming Ladder Tournament, *Ministry of Education of China, 2019*
 - May Fourth Scholarship (15 / 330), *Peking University, 2018*
 - Academic Excellence Award, *Peking University, 2018*
 - Excellent Coach Award (three times) in Olympiad in Informatics Camp, *Olympic Committee of Jiangsu Province, 2016, 2017, 2018*
 - Huaying Elite Scholarship, *Huaying Education Foundation, 2016*
 - Bronze medal in National Olympiad in Informatics (NOI), *China Computer Federation, 2015*
-
+- First prize (three times) in National Olympiad in Informatics in Provinces (NOIP), *China Computer Federation, 2013, 2014, 2015*
 
