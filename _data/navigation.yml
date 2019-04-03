@@ -1,17 +1,17 @@
 # main links links
 main:
 
-  - title: "Visual Relation Detection"
+  - title: "Visual Relation"
     url: /VRD/
 
-  - title: "Human Attribute Recognition"
+  - title: "Human Attribute"
     url: /HAR/
 
-  - title: "TensorLayer 2.0"
+  - title: "TensorLayer"
     url: /TL/
 
-#  - title: "Spreadsheet Intelligence"
-#    url: /SI/
+  - title: "Spreadsheet Intelligence"
+    url: /SI/
 
   - title: "Books"
     url: /Books/
