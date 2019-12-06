@@ -22,7 +22,7 @@ I am currently a member in [Center on Frontiers of Computing Studies (CFCS)](htt
 Publications
 ------
 
-##### Localize, Assemble, and Predicate: Contextual Object Proposal Embedding for Visual Relation Detection
+### Localize, Assemble, and Predicate: Contextual Object Proposal Embedding for Visual Relation Detection
 
 - **Ruihai Wu**, Kehan Xu, Chenchen Liu, Nan Zhuang, Yadong Mu
 - AAAI 2020, oral presentation
