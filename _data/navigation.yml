@@ -4,9 +4,6 @@ main:
   - title: "Visual Relation"
     url: /VRD/
 
-  - title: "Human Attribute"
-    url: /HAR/
-
   - title: "TensorLayer"
     url: /TL/
 
