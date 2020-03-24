@@ -56,15 +56,27 @@ RESEARCH PROJECTS
 
 OPEN SOURCE PROJECTS
 ------
-### [TensorLayer 2.0](https://github.com/zsdonghao/tensorlayer2) (under development)
 
-- TensorFlow-based deep learning library
-- one of the four collaborators
+  <ul><li>
+    <h3 class="archive__item-title" itemprop="headline">
+        TensorLayer 2.0
+        <a class="github-button" style="vertical-align: middle" href="https://github.com/tensorlayer/tensorlayer" data-show-count="true" aria-label="Star tensorlayer/tensorlayer on GitHub">Star</a>
+    </h3>
+  </li></ul>
+
+-  A novel TensorFlow-based deep learning and reinforcement learning library designed for researchers and engineers. [\[Github\]](https://github.com/tensorlayer/tensorlayer) [\[Doc\]](https://tensorlayer.readthedocs.io)
+- Best Open Source Software Award @ACM Multimedia (MM) 2017.
+- I’m one of the main contributer to TL 2.0 and member of TensorLayer core team.
 
 <p align="center">
     <img src="https://warshallrho.github.io/images/tl_transparent_logo.png">
 </p>
 
+
+Teaching Assistant
+------
+
+- Deep Generative Models, *2020, Spring*
 
 
 
