@@ -26,13 +26,13 @@ Publications
 
 - **Ruihai Wu**, Kehan Xu, Chenchen Liu, Nan Zhuang, Yadong Mu
 - AAAI 2020, oral presentation
-- [link](http://www.muyadong.com/paper/AAAI20_VRD.pdf)
+- [[Paper](http://www.muyadong.com/paper/AAAI20_VRD.pdf)]
 
 ### Unpaired Image-to-Image Translation using Adversarial Consistency Loss
 
 - Yihao Zhao, **Ruihai Wu**, Hao Dong
 - ECCV 2020
-- [link](https://arxiv.org/abs/2003.04858)
+- [[Paper](https://arxiv.org/abs/2003.04858)]
 
 
 
@@ -55,9 +55,10 @@ OPEN SOURCE PROJECTS
   <ul><li>
     <h3 class="archive__item-title" itemprop="headline">
         TensorLayer 2.0
-        <a class="github-button" style="vertical-align: middle" href="https://github.com/tensorlayer/tensorlayer" data-show-count="true" aria-label="Star tensorlayer/tensorlayer on GitHub">Star</a>
+        (6000+<a class="github-button" style="vertical-align: middle" href="https://github.com/tensorlayer/tensorlayer" data-show-count="true" aria-label="Star tensorlayer/tensorlayer on GitHub">stars</a>)
     </h3>
   </li></ul>
+
 
 -  A novel TensorFlow-based deep learning and reinforcement learning library designed for researchers and engineers. [\[Github\]](https://github.com/tensorlayer/tensorlayer) [\[Doc\]](https://tensorlayer.readthedocs.io)
 - Best Open Source Software Award @ACM Multimedia (MM) 2017.
@@ -78,7 +79,7 @@ Teaching Assistant
 SELECTED HONORS AND AWARDS
 ------
 
-- Peking University’s Excellent Undergraduate Student, *Peking University, 2020*
+- Excellent Undergraduate Student, *Peking University, 2020*
 - Peking University’s Third-class Scholarship, *Peking University, 2019*
 - Research Excellence Award, *Peking University, 2019*
 - Star of Tomorrow Excellent Intern, *Microsoft Research Asia, 2019*
@@ -86,7 +87,6 @@ SELECTED HONORS AND AWARDS
 - May Fourth Scholarship, *Peking University, 2018*
 - Academic Excellence Award, *Peking University, 2018*
 - Excellent Coach Award (three times) in Olympiad in Informatics Camp, *Olympic Committee of Jiangsu Province, 2016, 2017, 2018*
-- Huaying Elite Scholarship, *Huaying Education Foundation, 2016*
 - Bronze medal in National Olympiad in Informatics (NOI), *China Computer Federation, 2015*
 - First prize (three times) in National Olympiad in Informatics in Provinces (NOIP), *China Computer Federation, 2013, 2014, 2015*
 
