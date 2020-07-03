@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Welcome to Ruihai's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,12 +10,11 @@ redirect_from:
 
 
 
-### Welcome to Ruihai's Homepage
-
 
 
 ABOUT ME
 ------
+
 I am a senior student majoring in Computer Science at Peking University. My research interests include computer vision, deep learning, and machine learning.
 
 I am currently a member in [Center on Frontiers of Computing Studies (CFCS)](https://cfcs.pku.edu.cn/english/), Peking University, supervised by [Prof. Hao Dong](https://zsdonghao.github.io/).  In the spring of 2019, I worked as a research intern in [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/).
