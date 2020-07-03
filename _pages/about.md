@@ -26,23 +26,18 @@ Publications
 
 - **Ruihai Wu**, Kehan Xu, Chenchen Liu, Nan Zhuang, Yadong Mu
 - AAAI 2020, oral presentation
+- [link](http://www.muyadong.com/paper/AAAI20_VRD.pdf)
+
+### Unpaired Image-to-Image Translation using Adversarial Consistency Loss
+
+- Yihao Zhao, **Ruihai Wu**, Hao Dong
+- ECCV 2020
+- [link](https://arxiv.org/abs/2003.04858)
 
 
 
-RESEARCH PROJECTS
+OTHER PROJECTS
 ------
-### Visual Relation Detection, Peking University
-
-- To describe all interacting objects in an image using subject-predicate-object triplets.
-- AAAI 2020, oral presentation
-
-<p align="center">
-    <img src="https://warshallrho.github.io/images/relation.png">
-</p>
-
-
-
-
 ### Spreadsheet Intelligence, Microsoft Research Asia
 
 - https://www.microsoft.com/en-us/research/project/spreadsheet-intelligence/
@@ -76,13 +71,14 @@ OPEN SOURCE PROJECTS
 Teaching Assistant
 ------
 
-- Deep Generative Models, *2020, Spring*
+- [Deep Generative Models](https://deep-generative-models.github.io/) (course for PhD and Master students), *2020, Spring*
 
 
 
 SELECTED HONORS AND AWARDS
 ------
 
+- Peking University’s Excellent Undergraduate Student, *Peking University, 2020*
 - Peking University’s Third-class Scholarship, *Peking University, 2019*
 - Research Excellence Award, *Peking University, 2019*
 - Star of Tomorrow Excellent Intern, *Microsoft Research Asia, 2019*
