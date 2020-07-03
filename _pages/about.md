@@ -24,13 +24,13 @@ Publications
 
 ### Localize, Assemble, and Predicate: Contextual Object Proposal Embedding for Visual Relation Detection
 
-- **Ruihai Wu**, Kehan Xu, Chenchen Liu, Nan Zhuang, Yadong Mu
+- **Ruihai Wu**, [Kehan Xu](https://fiona730.github.io/), Chenchen Liu, Nan Zhuang, [Yadong Mu](http://www.muyadong.com/)
 - AAAI 2020, oral presentation
 - [[Paper](http://www.muyadong.com/paper/AAAI20_VRD.pdf)]
 
 ### Unpaired Image-to-Image Translation using Adversarial Consistency Loss
 
-- Yihao Zhao, **Ruihai Wu**, Hao Dong
+- Yihao Zhao, **Ruihai Wu**, [Hao Dong](https://zsdonghao.github.io/)
 - ECCV 2020
 - [[Paper](https://arxiv.org/abs/2003.04858)]
 
