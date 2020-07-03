@@ -10,6 +10,10 @@ redirect_from:
 
 
 
+### Welcome to Ruihai's Homepage
+
+
+
 ABOUT ME
 ------
 I am a senior student majoring in Computer Science at Peking University. My research interests include computer vision, deep learning, and machine learning.
