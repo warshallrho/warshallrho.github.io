@@ -29,7 +29,7 @@ Publications
 
 - **Ruihai Wu**, [Kehan Xu](https://fiona730.github.io/), Chenchen Liu, Nan Zhuang, [Yadong Mu](http://www.muyadong.com/)
 - AAAI 2020, oral presentation
-- [[Paper](http://www.muyadong.com/paper/AAAI20_VRD.pdf)]
+- [[Paper](https://aaai.org/ojs/index.php/AAAI/article/view/6913)]
 
 ### Unpaired Image-to-Image Translation using Adversarial Consistency Loss
 
