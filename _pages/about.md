@@ -31,13 +31,13 @@ Publications
 
 - **Ruihai Wu**, [Kehan Xu](https://fiona730.github.io/), Chenchen Liu, Nan Zhuang, [Yadong Mu](http://www.muyadong.com/)
 - AAAI 2020, oral presentation
-- [[Paper](https://aaai.org/ojs/index.php/AAAI/article/view/6913)]
+- [\[Paper\]](https://aaai.org/ojs/index.php/AAAI/article/view/6913)
 
 ### Unpaired Image-to-Image Translation using Adversarial Consistency Loss
 
 - Yihao Zhao, **Ruihai Wu**, [Hao Dong](https://zsdonghao.github.io/)
 - ECCV 2020
-- [[Paper](https://arxiv.org/abs/2003.04858)]
+- [\[Paper\]](https://arxiv.org/abs/2003.04858)
 
 
 
@@ -52,7 +52,7 @@ OPEN SOURCE PROJECTS
   </li></ul>
 -  A novel TensorFlow-based deep learning and reinforcement learning library designed for researchers and engineers. [\[Github\]](https://github.com/tensorlayer/tensorlayer) [\[Doc\]](https://tensorlayer.readthedocs.io)
 - Best Open Source Software Award @ACM Multimedia (MM) 2017.
-- I’m one of the main contributer to TL 2.0 and member of TensorLayer core team.
+- I’m one of the main contributers to TL 2.0 and member of TensorLayer core team.
 
 <p align="center">
     <img src="https://warshallrho.github.io/images/tl_transparent_logo.png">
