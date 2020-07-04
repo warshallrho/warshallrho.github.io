@@ -48,6 +48,7 @@ OPEN SOURCE PROJECTS
     <h3 class="archive__item-title" itemprop="headline">
         TensorLayer 2.0
     <a class="github-button" href="https://github.com/tensorlayer/tensorlayer" data-size="large" data-show-count="true" aria-label="Star tensorlayer/tensorlayer on GitHub">Star</a>
+    <a class="github-button" href="https://github.com/tensorlayer/tensorlayer/fork" data-size="large" data-show-count="true" aria-label="Fork tensorlayer/tensorlayer on GitHub">Fork</a>
     </h3>
   </li></ul>
 -  A novel TensorFlow-based deep learning and reinforcement learning library designed for researchers and engineers. [\[Github\]](https://github.com/tensorlayer/tensorlayer) [\[Doc\]](https://tensorlayer.readthedocs.io)
