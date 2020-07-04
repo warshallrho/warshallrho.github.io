@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
 
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 
 
 
@@ -39,19 +41,6 @@ Publications
 
 
 
-OTHER PROJECTS
-------
-### Spreadsheet Intelligence, Microsoft Research Asia
-
-- https://www.microsoft.com/en-us/research/project/spreadsheet-intelligence/
-
-
-<p align="center">
-    <img src="https://support.content.office.net/en-us/media/a1c8d676-2e96-4557-bcc6-5a2b50d72d45.gif">
-</p>
-
-
-
 OPEN SOURCE PROJECTS
 ------
 
@@ -62,6 +51,7 @@ OPEN SOURCE PROJECTS
     </h3>
   </li></ul>
 
+<a class="github-button" href="https://github.com/tensorlayer/tensorlayer" data-size="large" data-show-count="true" aria-label="Star tensorlayer/tensorlayer on GitHub">Star</a>
 
 -  A novel TensorFlow-based deep learning and reinforcement learning library designed for researchers and engineers. [\[Github\]](https://github.com/tensorlayer/tensorlayer) [\[Doc\]](https://tensorlayer.readthedocs.io)
 - Best Open Source Software Award @ACM Multimedia (MM) 2017.
@@ -69,6 +59,19 @@ OPEN SOURCE PROJECTS
 
 <p align="center">
     <img src="https://warshallrho.github.io/images/tl_transparent_logo.png">
+</p>
+
+
+
+OTHER PROJECTS
+------
+### Spreadsheet Intelligence, Microsoft Research Asia
+
+- https://www.microsoft.com/en-us/research/project/spreadsheet-intelligence/
+
+
+<p align="center">
+    <img src="https://support.content.office.net/en-us/media/a1c8d676-2e96-4557-bcc6-5a2b50d72d45.gif">
 </p>
 
 
