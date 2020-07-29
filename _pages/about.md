@@ -27,17 +27,29 @@ I am currently a member in [Center on Frontiers of Computing Studies (CFCS)](htt
 Publications
 ------
 
-### Localize, Assemble, and Predicate: Contextual Object Proposal Embedding for Visual Relation Detection
-
-- **Ruihai Wu**, [Kehan Xu](https://fiona730.github.io/), Chenchen Liu, Nan Zhuang, [Yadong Mu](http://www.muyadong.com/)
-- AAAI 2020, oral presentation
-- [\[Paper\]](https://aaai.org/ojs/index.php/AAAI/article/view/6913)
-
 ### Unpaired Image-to-Image Translation using Adversarial Consistency Loss
 
 - Yihao Zhao, **Ruihai Wu**, [Hao Dong](https://zsdonghao.github.io/)
 - ECCV 2020
 - [\[Paper\]](https://arxiv.org/abs/2003.04858)
+
+
+
+### TDMPNet: Prototype Network with Recurrent Top-Down Modulation for Robust Object Classification under Partial Occlusion
+
+- Mingqing Xiao, Adam Kortylewski, **Ruihai Wu**, Siyuan Qiao, Wei Shen, Alan Yuille
+- ECCV 2020, Workshop
+- [\[Paper\]](https://openreview.net/forum?id=v_KSmk9B5kt)
+
+
+
+### Localize, Assemble, and Predicate: Contextual Object Proposal Embedding for Visual Relation Detection
+
+- **Ruihai Wu**, [Kehan Xu](https://fiona730.github.io/), Chenchen Liu, Nan Zhuang, [Yadong Mu](http://www.muyadong.com/)
+- AAAI 2020, Oral
+- [\[Paper\]](https://aaai.org/ojs/index.php/AAAI/article/view/6913)
+
+
 
 
 
