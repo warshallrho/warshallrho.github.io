@@ -95,7 +95,7 @@ Teaching Assistant
 SELECTED HONORS AND AWARDS
 ------
 
-- Excellent Undergraduate Student, *Peking University, 2020*
+- Excellent Graduate, *Peking University, 2020*
 - Peking University’s Third-class Scholarship, *Peking University, 2019*
 - Research Excellence Award, *Peking University, 2019*
 - Star of Tomorrow Excellent Intern, *Microsoft Research Asia, 2019*
