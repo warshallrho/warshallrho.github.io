@@ -31,7 +31,7 @@ Publications
 
 - Yihao Zhao, **Ruihai Wu**, [Hao Dong](https://zsdonghao.github.io/)
 - ECCV 2020
-- [\[Paper\]](https://arxiv.org/abs/2003.04858)
+- [\[Paper\]](https://arxiv.org/abs/2003.04858), [\[Code\]](https://github.com/hyperplane-lab/ACL-GAN)
 
 
 
