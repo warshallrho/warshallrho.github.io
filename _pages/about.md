@@ -17,9 +17,9 @@ redirect_from:
 ABOUT ME
 ------
 
-I am a senior student majoring in Computer Science at Peking University. My research interests include computer vision, deep learning, and machine learning.
+I am a first-year PhD student majoring in Computer Science at Peking University. My research interests include computer vision, deep learning, and machine learning.
 
-I am currently a member in [Center on Frontiers of Computing Studies (CFCS)](https://cfcs.pku.edu.cn/english/), Peking University, supervised by [Prof. Hao Dong](https://zsdonghao.github.io/).  In the spring of 2019, I worked as a research intern in [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/).
+I am currently a member in [Center on Frontiers of Computing Studies (CFCS)](https://cfcs.pku.edu.cn/english/), Peking University, supervised by [Prof. Hao Dong](https://zsdonghao.github.io/). 
 
 
 
@@ -27,26 +27,26 @@ I am currently a member in [Center on Frontiers of Computing Studies (CFCS)](htt
 Publications
 ------
 
-### Unpaired Image-to-Image Translation using Adversarial Consistency Loss
-
-- Yihao Zhao, **Ruihai Wu**, [Hao Dong](https://zsdonghao.github.io/)
-- ECCV 2020
-- [\[Paper\]](https://arxiv.org/abs/2003.04858), [\[Project\]](https://rivendile.github.io/ACL-GAN/), [\[Code\]](https://github.com/hyperplane-lab/ACL-GAN)
-
-
-### TDMPNet: Prototype Network with Recurrent Top-Down Modulation for Robust Object Classification under Partial Occlusion
-
-- Mingqing Xiao, Adam Kortylewski, **Ruihai Wu**, Siyuan Qiao, Wei Shen, Alan Yuille
-- ECCV 2020, Workshop
-- [\[Paper\]](https://openreview.net/forum?id=v_KSmk9B5kt)
-
-
 
 ### Localize, Assemble, and Predicate: Contextual Object Proposal Embedding for Visual Relation Detection
 
 - **Ruihai Wu**, [Kehan Xu](https://fiona730.github.io/), Chenchen Liu, Nan Zhuang, [Yadong Mu](http://www.muyadong.com/)
 - AAAI 2020, Oral
 - [\[Paper\]](https://aaai.org/ojs/index.php/AAAI/article/view/6913)
+
+
+### Unpaired Image-to-Image Translation using Adversarial Consistency Loss
+
+- [Yihao Zhao](https://rivendile.github.io/YihaoZhao.github.io/), **Ruihai Wu**, [Hao Dong](https://zsdonghao.github.io/)
+- ECCV 2020
+- [\[Paper\]](https://arxiv.org/abs/2003.04858), [\[Project\]](https://rivendile.github.io/ACL-GAN/), [\[Code\]](https://github.com/hyperplane-lab/ACL-GAN)
+
+
+### TDMPNet: Prototype Network with Recurrent Top-Down Modulation for Robust Object Classification under Partial Occlusion
+
+- [Mingqing Xiao](https://pkuxmq.github.io/), Adam Kortylewski, **Ruihai Wu**, Siyuan Qiao, Wei Shen, Alan Yuille
+- ECCV 2020, Workshop
+- [\[Paper\]](https://openreview.net/forum?id=v_KSmk9B5kt)
 
 
 
