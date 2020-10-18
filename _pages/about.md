@@ -31,7 +31,7 @@ Publications
 
 - Yihao Zhao, **Ruihai Wu**, [Hao Dong](https://zsdonghao.github.io/)
 - ECCV 2020
-- [\[Paper\]](https://arxiv.org/abs/2003.04858), [\[project\]](https://rivendile.github.io/ACL-GAN/), [\[Code\]](https://github.com/hyperplane-lab/ACL-GAN)
+- [\[Paper\]](https://arxiv.org/abs/2003.04858), [\[Project\]](https://rivendile.github.io/ACL-GAN/), [\[Code\]](https://github.com/hyperplane-lab/ACL-GAN)
 
 
 ### TDMPNet: Prototype Network with Recurrent Top-Down Modulation for Robust Object Classification under Partial Occlusion
