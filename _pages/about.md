@@ -37,7 +37,7 @@ Publications
 
 ### Unpaired Image-to-Image Translation using Adversarial Consistency Loss
 
-- [Yihao Zhao](https://rivendile.github.io/YihaoZhao.github.io/), **Ruihai Wu**, [Hao Dong](https://zsdonghao.github.io/)
+- [Yihao Zhao](https://rivendile.github.io), **Ruihai Wu**, [Hao Dong](https://zsdonghao.github.io/)
 - ECCV 2020
 - [\[Paper\]](https://arxiv.org/abs/2003.04858), [\[Project\]](https://rivendile.github.io/ACL-GAN/), [\[Code\]](https://github.com/hyperplane-lab/ACL-GAN)
 
