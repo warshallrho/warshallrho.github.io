@@ -28,6 +28,13 @@ Publications
 ------
 
 
+### Robotic Visuomotor Control with Unsupervised Forward Model Learned from Videos
+
+- Haoqi Yuan*, **Ruihai Wu***, Andrew Zhao*, Haipeng Zhang, Zihan Ding, [Hao Dong](http://zsdonghao.github.io/)
+- arxiv
+- [\[Paper\]](https://arxiv.org/pdf/2103.04301.pdf)
+
+
 ### Localize, Assemble, and Predicate: Contextual Object Proposal Embedding for Visual Relation Detection
 
 - **Ruihai Wu**, [Kehan Xu](https://fiona730.github.io/), Chenchen Liu, Nan Zhuang, [Yadong Mu](http://www.muyadong.com/)

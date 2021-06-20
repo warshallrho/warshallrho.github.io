@@ -7,11 +7,11 @@ main:
   - title: "TensorLayer"
     url: /TL/
 
-  - title: "Spreadsheet Intelligence"
-    url: /SI/
+#  - title: "Spreadsheet Intelligence"
+#    url: /SI/
 
-  - title: "Books"
-    url: /Books/
+#  - title: "Books"
+#    url: /Books/
     
 #  - title: "Publications"
 #    url: /publications/
