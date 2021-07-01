@@ -1,11 +1,11 @@
 # main links links
 main:
 
-  - title: "Visual Relation"
-    url: /VRD/
+#  - title: "Visual Relation"
+#    url: /VRD/
 
-  - title: "TensorLayer"
-    url: /TL/
+#  - title: "TensorLayer"
+#    url: /TL/
 
 #  - title: "Spreadsheet Intelligence"
 #    url: /SI/
