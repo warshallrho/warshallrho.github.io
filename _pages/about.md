@@ -31,7 +31,7 @@ Publications
 ### Robotic Visuomotor Control with Unsupervised Forward Model Learned from Videos
 
 - Haoqi Yuan\*, **Ruihai Wu**\*, Andrew Zhao*, Haipeng Zhang, Zihan Ding, [Hao Dong](http://zsdonghao.github.io/)
-- IROS 2020
+- IROS 2021
 - [\[Paper\]](https://arxiv.org/pdf/2103.04301.pdf)
 
 
