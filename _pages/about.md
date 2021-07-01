@@ -17,7 +17,7 @@ redirect_from:
 ABOUT ME
 ------
 
-I am a first-year PhD student majoring in Computer Science at Peking University. My research interests include computer vision, deep learning, and machine learning.
+I am a first-year PhD student majoring in Computer Science at Peking University. My research interests include computer vision and robotics.
 
 I am currently a member in [Center on Frontiers of Computing Studies (CFCS)](https://cfcs.pku.edu.cn/english/), Peking University, supervised by [Prof. Hao Dong](https://zsdonghao.github.io/). 
 
