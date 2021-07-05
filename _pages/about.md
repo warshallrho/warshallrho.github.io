@@ -28,6 +28,14 @@ Publications
 ------
 
 
+### VAT-Mart: Learning Visual Action Trajectory Proposals for Manipulating 3D ARTiculated Objects
+
+
+- **Ruihai Wu**\*, [Yan Zhao\*](https://www.researchgate.net/profile/Yan-Zhao-182), [Kaichun Mo\*](https://www.cs.stanford.edu/~kaichun), [Zizheng Guo](https://guozz.cn), [Yian Wang](https://github.com/galaxy-qazzz), [Tianhao Wu](https://moistchi.github.io/tianhaowu.github.io/), [Qingnan Fan](https://fqnchina.github.io/), [Xuelin Chen](https://xuelin-chen.github.io/), [Leonidas J. Guibas](https://geometry.stanford.edu/member/guibas/), [Hao Dong](http://zsdonghao.github.io/)
+- arXiv:2106.14440 \[cs.CV\]
+- [\[Paper\]](https://arxiv.org/pdf/2103.04301.pdf), [\[Project\]](https://hyperplane-lab.github.io/vat-mart/), [\[Video\]](https://www.youtube.com/watch?v=HjhsLKf1eQY)
+
+
 ### Robotic Visuomotor Control with Unsupervised Forward Model Learned from Videos
 
 - Haoqi Yuan\*, **Ruihai Wu**\*, Andrew Zhao*, Haipeng Zhang, Zihan Ding, [Hao Dong](http://zsdonghao.github.io/)
