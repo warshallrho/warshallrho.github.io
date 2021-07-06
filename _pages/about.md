@@ -14,7 +14,7 @@ redirect_from:
 
 
 
-ABOUT ME
+About Me
 ------
 
 I am a first-year PhD student majoring in Computer Science at Peking University. My research interests include computer vision and robotics.
@@ -67,7 +67,7 @@ Publications
 
 
 
-OPEN SOURCE PROJECTS
+Open Source Projects
 ------
 
   <ul><li>
@@ -87,7 +87,7 @@ OPEN SOURCE PROJECTS
 
 
 
-OTHER PROJECTS
+Other Projects
 ------
 ### Spreadsheet Intelligence, Microsoft Research Asia
 
@@ -106,7 +106,14 @@ Teaching Assistant
 
 
 
-SELECTED HONORS AND AWARDS
+Professional Activities
+------
+
+- Reviewer: ICCV 2021
+
+
+
+Selected Honors and Awards
 ------
 
 - Excellent Graduate, *Peking University, 2020*
