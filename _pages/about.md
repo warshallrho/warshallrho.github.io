@@ -36,11 +36,11 @@ Publications
 - [\[Paper\]](https://arxiv.org/pdf/2103.04301.pdf), [\[Project\]](https://hyperplane-lab.github.io/vat-mart/), [\[Video\]](https://www.youtube.com/watch?v=HjhsLKf1eQY)
 
 
-### Robotic Visuomotor Control with Unsupervised Forward Model Learned from Videos
+### DMotion: Robotic Visuomotor Control with Unsupervised Forward Model Learned from Videos
 
-- Haoqi Yuan\*, **Ruihai Wu**\*, Andrew Zhao*, Haipeng Zhang, Zihan Ding, [Hao Dong](http://zsdonghao.github.io/)
+- [Haoqi Yuan\*](https://yhqpkueecs.github.io/), **Ruihai Wu**\*, [Andrew Zhao*](https://andrewzh112.github.io/), Haipeng Zhang, [Zihan Ding](https://quantumiracle.github.io/webpage/), [Hao Dong](http://zsdonghao.github.io/)
 - IROS 2021
-- [\[Paper\]](https://arxiv.org/pdf/2103.04301.pdf)
+- [\[Paper\]](https://arxiv.org/pdf/2103.04301.pdf), [\[Project\]](https://hyperplane-lab.github.io/dmotion/)
 
 
 ### Localize, Assemble, and Predicate: Contextual Object Proposal Embedding for Visual Relation Detection
