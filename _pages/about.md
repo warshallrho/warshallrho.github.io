@@ -40,7 +40,7 @@ Publications
 
 - [Haoqi Yuan\*](https://yhqpkueecs.github.io/), **Ruihai Wu**\*, [Andrew Zhao*](https://andrewzh112.github.io/), Haipeng Zhang, [Zihan Ding](https://quantumiracle.github.io/webpage/), [Hao Dong](http://zsdonghao.github.io/)
 - IROS 2021
-- [\[Paper\]](https://arxiv.org/pdf/2103.04301.pdf), [\[Project\]](https://hyperplane-lab.github.io/dmotion/)
+- [\[Paper\]](https://arxiv.org/pdf/2103.04301.pdf), [\[Project\]](https://hyperplane-lab.github.io/dmotion/), [\[Code\]](https://github.com/hyperplane-lab/dmotion-code)
 
 
 ### Localize, Assemble, and Predicate: Contextual Object Proposal Embedding for Visual Relation Detection
