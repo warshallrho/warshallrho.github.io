@@ -24,11 +24,11 @@ I am currently a member in [Center on Frontiers of Computing Studies (CFCS)](htt
 
 
 
-Publications
+Publications (\* denotes equal contribution)
 ------
 
 
-### VAT-Mart: Learning Visual Action Trajectory Proposals for Manipulating 3D ARTiculated Objects
+### AdaAfford: Learning to Adapt Manipulation Affordance for 3D Articulated Objects via Few-shot Interactions
 
 
 - [Yian Wang\*](https://github.com/galaxy-qazzz), **Ruihai Wu**\*, [Kaichun Mo\*](https://www.cs.stanford.edu/~kaichun), Jiaqi Ke, [Qingnan Fan](https://fqnchina.github.io/), [Leonidas J. Guibas](https://geometry.stanford.edu/member/guibas/), [Hao Dong](http://zsdonghao.github.io/)
