@@ -106,6 +106,7 @@ __Spreadsheet Intelligence, Microsoft Research Asia__
 
 &nbsp;  Umbrella research project behind [Ideas in Excel](https://support.office.com/en-us/article/ideas-in-excel-3223aab8-f543-4fda-85ed-76bb0295ffc4) of Microsoft Office 365.  
 &nbsp;  [\[Project\]](https://www.microsoft.com/en-us/research/project/spreadsheet-intelligence/)  
+<br>
 
 
 
