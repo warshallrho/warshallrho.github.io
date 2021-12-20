@@ -30,7 +30,7 @@ Publications (\* denotes equal contribution)
 <img width="195" height="130" align="left" src="https://warshallrho.github.io/images/adaafford.png"/>
 
 &nbsp; __AdaAfford: Learning to Adapt Manipulation Affordance for 3D Articulated Objects via Few-shot Interactions__  
-&nbsp;  [Yian Wang*](https://github.com/galaxy-qazzz), **Ruihai Wu***, [Kaichun Mo*](https://www.cs.stanford.edu/~kaichun), Jiaqi Ke, [Qingnan Fan](https://fqnchina.github.io/), [Leonidas J. Guibas](https://geometry.stanford.edu/member/guibas/), [Hao Dong](http://zsdonghao.github.io/)  
+&nbsp;  [Yian Wang\*](https://github.com/galaxy-qazzz), **Ruihai Wu***, [Kaichun Mo\*](https://www.cs.stanford.edu/~kaichun), Jiaqi Ke, [Qingnan Fan](https://fqnchina.github.io/), [Leonidas J. Guibas](https://geometry.stanford.edu/member/guibas/), [Hao Dong](http://zsdonghao.github.io/)  
 &nbsp;  arXiv:2112.00246 [cs.CV]  
 &nbsp;  [\[Paper\]](https://arxiv.org/pdf/2112.00246.pdf), [\[Project\]](https://hyperplane-lab.github.io/AdaAfford/)  
 
@@ -38,7 +38,7 @@ Publications (\* denotes equal contribution)
 <img width="195" height="130" align="left" src="https://warshallrho.github.io/images/vat_mart.gif"/>
 
 &nbsp; __VAT-Mart: Learning Visual Action Trajectory Proposals for Manipulating 3D ARTiculated Objects__  
-&nbsp;  **Ruihai Wu***, [Yan Zhao*](https://www.researchgate.net/profile/Yan-Zhao-182), [Kaichun Mo*](https://www.cs.stanford.edu/~kaichun), [Zizheng Guo](https://guozz.cn), [Yian Wang](https://github.com/galaxy-qazzz), [Tianhao Wu](https://moistchi.github.io/tianhaowu.github.io/), [Qingnan Fan](https://fqnchina.github.io/), [Xuelin Chen](https://xuelin-chen.github.io/), [Leonidas J. Guibas](https://geometry.stanford.edu/member/guibas/), [Hao Dong](http://zsdonghao.github.io/)  
+&nbsp;  **Ruihai Wu***, [Yan Zhao\*](https://www.researchgate.net/profile/Yan-Zhao-182), [Kaichun Mo\*](https://www.cs.stanford.edu/~kaichun), [Zizheng Guo](https://guozz.cn), [Yian Wang](https://github.com/galaxy-qazzz), [Tianhao Wu](https://moistchi.github.io/tianhaowu.github.io/), [Qingnan Fan](https://fqnchina.github.io/), [Xuelin Chen](https://xuelin-chen.github.io/), [Leonidas J. Guibas](https://geometry.stanford.edu/member/guibas/), [Hao Dong](http://zsdonghao.github.io/)  
 &nbsp;  arXiv:2106.14440 [cs.CV]  
 &nbsp;  [\[Paper\]](https://arxiv.org/pdf/2106.14440.pdf), [\[Project\]](https://hyperplane-lab.github.io/vat-mart/), [\[Video\]](https://www.youtube.com/watch?v=HjhsLKf1eQY)  
 
@@ -46,7 +46,7 @@ Publications (\* denotes equal contribution)
 <img width="195" height="130" align="left" src="https://warshallrho.github.io/images/dmotion.png"/>
 
 &nbsp; __DMotion: Robotic Visuomotor Control with Unsupervised Forward Model Learned from Videos__  
-&nbsp;  [Haoqi Yuan*](https://yhqpkueecs.github.io/), **Ruihai Wu***, [Andrew Zhao*](https://andrewzh112.github.io/), Haipeng Zhang, [Zihan Ding](https://quantumiracle.github.io/webpage/), [Hao Dong](http://zsdonghao.github.io/)  
+&nbsp;  [Haoqi Yuan\*](https://yhqpkueecs.github.io/), **Ruihai Wu***, [Andrew Zhao\*](https://andrewzh112.github.io/), Haipeng Zhang, [Zihan Ding](https://quantumiracle.github.io/webpage/), [Hao Dong](http://zsdonghao.github.io/)  
 &nbsp;  IROS 2021  
 &nbsp;  [\[Paper\]](https://arxiv.org/pdf/2103.04301.pdf), [\[Project\]](https://hyperplane-lab.github.io/dmotion/), [\[Code\]](https://github.com/hyperplane-lab/dmotion-code)  
 
@@ -87,7 +87,7 @@ Open Source Projects
 &nbsp;  __TensorLayer__
 <a class="github-button" href="https://github.com/tensorlayer/tensorlayer" data-size="large" data-show-count="true" aria-label="Star tensorlayer/tensorlayer on GitHub">Star</a>
 <a class="github-button" href="https://github.com/tensorlayer/tensorlayer/fork" data-size="large" data-show-count="true" aria-label="Fork tensorlayer/tensorlayer on GitHub">Fork</a>  
-&nbsp;  A deep learning and reinforcement learning library for researchers and engineers. [\[Github\]](https://github.com/tensorlayer/tensorlayer) [\[Doc\]](https://tensorlayer.readthedocs.io)  
+&nbsp;  A deep learning and reinforcement learning library for researchers. [\[Github\]](https://github.com/tensorlayer/tensorlayer) [\[Doc\]](https://tensorlayer.readthedocs.io)  
 &nbsp;  Best Open Source Software Award @ACM Multimedia (MM) 2017.  
 &nbsp;  I’m one of the main contributers to TL 2.0.  
 
