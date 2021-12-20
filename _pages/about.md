@@ -84,12 +84,12 @@ __TDMPNet: Prototype Network with Recurrent Top-Down Modulation for Robust Objec
 Open Source Projects
 ------
 
-
+__TensorLayer__
+&nbsp;  <a class="github-button" href="https://github.com/tensorlayer/tensorlayer" data-size="large" data-show-count="true" aria-label="Star tensorlayer/tensorlayer on GitHub">Star</a>
+<a class="github-button" href="https://github.com/tensorlayer/tensorlayer/fork" data-size="large" data-show-count="true" aria-label="Fork tensorlayer/tensorlayer on GitHub">Fork</a>  
 <img width="195" height="130" align="left" src="https://warshallrho.github.io/images/tl_transparent_logo.png">
 
-&nbsp;  __TensorLayer__
-<a class="github-button" href="https://github.com/tensorlayer/tensorlayer" data-size="large" data-show-count="true" aria-label="Star tensorlayer/tensorlayer on GitHub">Star</a>
-<a class="github-button" href="https://github.com/tensorlayer/tensorlayer/fork" data-size="large" data-show-count="true" aria-label="Fork tensorlayer/tensorlayer on GitHub">Fork</a>  
+  
 &nbsp;  A deep learning and reinforcement learning library for researchers. [\[Github\]](https://github.com/tensorlayer/tensorlayer) [\[Doc\]](https://tensorlayer.readthedocs.io)  
 &nbsp;  Best Open Source Software Award @ACM Multimedia (MM) 2017.  
 &nbsp;  I’m one of the main contributers to TL 2.0.  
@@ -100,10 +100,12 @@ Other Projects
 ------
 
 
-<img width="195" height="130" align="left" src="https://support.content.office.net/en-us/media/a1c8d676-2e96-4557-bcc6-5a2b50d72d45.gif"/>
+__Spreadsheet Intelligence, Microsoft Research Asia__  
 
-&nbsp;  __Spreadsheet Intelligence, Microsoft Research Asia__  
-&nbsp;  Project: https://www.microsoft.com/en-us/research/project/spreadsheet-intelligence/  
+<img width="195" height="130" align="left" src="https://support.content.office.net/en-us/media/a1c8d676-2e96-4557-bcc6-5a2b50d72d45.gif"/>  
+
+&nbsp;  Umbrella research project behind [Ideas in Excel](https://support.office.com/en-us/article/ideas-in-excel-3223aab8-f543-4fda-85ed-76bb0295ffc4) of Microsoft Office 365 product.  
+&nbsp;  [Project](https://www.microsoft.com/en-us/research/project/spreadsheet-intelligence/)  
 
 
 
