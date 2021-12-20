@@ -27,49 +27,52 @@ I am currently a member in [Center on Frontiers of Computing Studies (CFCS)](htt
 Publications (\* denotes equal contribution)
 ------
 
+__AdaAfford: Learning to Adapt Manipulation Affordance for 3D Articulated Objects via Few-shot Interactions__
+
 <img width="195" height="130" align="left" src="https://warshallrho.github.io/images/adaafford.png"/>
 
-&nbsp; __AdaAfford: Learning to Adapt Manipulation Affordance for 3D Articulated Objects via Few-shot Interactions__  
 &nbsp;  [Yian Wang\*](https://github.com/galaxy-qazzz), **Ruihai Wu***, [Kaichun Mo\*](https://www.cs.stanford.edu/~kaichun), Jiaqi Ke, [Qingnan Fan](https://fqnchina.github.io/), [Leonidas J. Guibas](https://geometry.stanford.edu/member/guibas/), [Hao Dong](http://zsdonghao.github.io/)  
 &nbsp;  arXiv:2112.00246 [cs.CV]  
 &nbsp;  [\[Paper\]](https://arxiv.org/pdf/2112.00246.pdf), [\[Project\]](https://hyperplane-lab.github.io/AdaAfford/)  
+<br>
 
+__VAT-Mart: Learning Visual Action Trajectory Proposals for Manipulating 3D ARTiculated Objects__  
 
 <img width="195" height="130" align="left" src="https://warshallrho.github.io/images/vat_mart.gif"/>
 
-&nbsp; __VAT-Mart: Learning Visual Action Trajectory Proposals for Manipulating 3D ARTiculated Objects__  
 &nbsp;  **Ruihai Wu***, [Yan Zhao\*](https://www.researchgate.net/profile/Yan-Zhao-182), [Kaichun Mo\*](https://www.cs.stanford.edu/~kaichun), [Zizheng Guo](https://guozz.cn), [Yian Wang](https://github.com/galaxy-qazzz), [Tianhao Wu](https://moistchi.github.io/tianhaowu.github.io/), [Qingnan Fan](https://fqnchina.github.io/), [Xuelin Chen](https://xuelin-chen.github.io/), [Leonidas J. Guibas](https://geometry.stanford.edu/member/guibas/), [Hao Dong](http://zsdonghao.github.io/)  
 &nbsp;  arXiv:2106.14440 [cs.CV]  
 &nbsp;  [\[Paper\]](https://arxiv.org/pdf/2106.14440.pdf), [\[Project\]](https://hyperplane-lab.github.io/vat-mart/), [\[Video\]](https://www.youtube.com/watch?v=HjhsLKf1eQY)  
+<br>
 
-
+__DMotion: Robotic Visuomotor Control with Unsupervised Forward Model Learned from Videos__  
 <img width="195" height="130" align="left" src="https://warshallrho.github.io/images/dmotion.png"/>
-
-&nbsp; __DMotion: Robotic Visuomotor Control with Unsupervised Forward Model Learned from Videos__  
+ 
 &nbsp;  [Haoqi Yuan\*](https://yhqpkueecs.github.io/), **Ruihai Wu***, [Andrew Zhao\*](https://andrewzh112.github.io/), Haipeng Zhang, [Zihan Ding](https://quantumiracle.github.io/webpage/), [Hao Dong](http://zsdonghao.github.io/)  
 &nbsp;  IROS 2021  
 &nbsp;  [\[Paper\]](https://arxiv.org/pdf/2103.04301.pdf), [\[Project\]](https://hyperplane-lab.github.io/dmotion/), [\[Code\]](https://github.com/hyperplane-lab/dmotion-code)  
+<br>
 
+__Localize, Assemble, and Predicate: Contextual Object Proposal Embedding for Visual Relation Detection__  
 
 <img width="195" height="130" align="left" src="https://warshallrho.github.io/images/vrd.png"/>
 
-&nbsp; __Localize, Assemble, and Predicate: Contextual Object Proposal Embedding for Visual Relation Detection__  
 &nbsp;  **Ruihai Wu**, [Kehan Xu](https://fiona730.github.io/), Chenchen Liu, Nan Zhuang, [Yadong Mu](http://www.muyadong.com/)  
 &nbsp;  AAAI 2020, Oral  
 &nbsp;  [\[Paper\]](https://aaai.org/ojs/index.php/AAAI/article/view/6913)  
+<br>
 
-
+__Unpaired Image-to-Image Translation using Adversarial Consistency Loss__  
 <img width="195" height="130" align="left" src="https://warshallrho.github.io/images/acl_gan.png"/>
 
-&nbsp; __Unpaired Image-to-Image Translation using Adversarial Consistency Loss__  
 &nbsp;  [Yihao Zhao](https://rivendile.github.io), **Ruihai Wu**, [Hao Dong](https://zsdonghao.github.io/)  
 &nbsp;  ECCV 2020  
 &nbsp;  [\[Paper\]](https://arxiv.org/abs/2003.04858), [\[Project\]](https://rivendile.github.io/ACL-GAN/), [\[Code\]](https://github.com/hyperplane-lab/ACL-GAN)  
+<br>
 
-
+__TDMPNet: Prototype Network with Recurrent Top-Down Modulation for Robust Object Classification under Partial Occlusion__
 <img width="195" height="130" align="left" src="https://warshallrho.github.io/images/tdmpnet.png"/>
 
-&nbsp; __TDMPNet: Prototype Network with Recurrent Top-Down Modulation for Robust Object Classification under Partial Occlusion__  
 &nbsp;  [Mingqing Xiao](https://pkuxmq.github.io/), [Adam Kortylewski](https://adamkortylewski.com/), **Ruihai Wu**, [Siyuan Qiao](https://www.cs.jhu.edu/~syqiao/), [Wei Shen](https://shenwei1231.github.io/), [Alan Yuille](https://www.cs.jhu.edu/~ayuille/)  
 &nbsp;  ECCV 2020, Workshop  
 &nbsp;  [\[Paper\]](https://openreview.net/forum?id=v_KSmk9B5kt)  
