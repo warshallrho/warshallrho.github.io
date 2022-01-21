@@ -41,7 +41,7 @@ __VAT-Mart: Learning Visual Action Trajectory Proposals for Manipulating 3D ARTi
 <img width="195" height="130" align="left" src="https://warshallrho.github.io/images/vat_mart.gif"/>
 
 &nbsp;  **Ruihai Wu***, [Yan Zhao\*](https://www.researchgate.net/profile/Yan-Zhao-182), [Kaichun Mo\*](https://www.cs.stanford.edu/~kaichun), [Zizheng Guo](https://guozz.cn), [Yian Wang](https://github.com/galaxy-qazzz), [Tianhao Wu](https://moistchi.github.io/tianhaowu.github.io/), [Qingnan Fan](https://fqnchina.github.io/), [Xuelin Chen](https://xuelin-chen.github.io/), [Leonidas J. Guibas](https://geometry.stanford.edu/member/guibas/), [Hao Dong](http://zsdonghao.github.io/)  
-&nbsp;  arXiv:2106.14440 [cs.CV]  
+&nbsp;  ICLR 2022  
 &nbsp;  [\[Paper\]](https://arxiv.org/pdf/2106.14440.pdf), [\[Project\]](https://hyperplane-lab.github.io/vat-mart/), [\[Video\]](https://www.youtube.com/watch?v=HjhsLKf1eQY)  
 <br>
 
