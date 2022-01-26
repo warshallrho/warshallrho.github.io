@@ -58,7 +58,7 @@ __Localize, Assemble, and Predicate: Contextual Object Proposal Embedding for Vi
 <img width="195" height="130" align="left" src="https://warshallrho.github.io/images/vrd.png"/>
 
 &nbsp;  **Ruihai Wu**, [Kehan Xu](https://fiona730.github.io/), Chenchen Liu, Nan Zhuang, [Yadong Mu](http://www.muyadong.com/)  
-&nbsp;  AAAI 2020, Oral  
+&nbsp;  AAAI 2020, <font color=red>Oral</font>  
 &nbsp;  [\[Paper\]](https://aaai.org/ojs/index.php/AAAI/article/view/6913)  
 <br>
 
