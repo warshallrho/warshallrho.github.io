@@ -46,7 +46,7 @@ __VAT-Mart: Learning Visual Action Trajectory Proposals for Manipulating 3D ARTi
 <br>
 
 __DMotion: Robotic Visuomotor Control with Unsupervised Forward Model Learned from Videos__  
-<img width="195" height="130" align="left" src="https://warshallrho.github.io/images/dmotion.png"/>
+<img width="195" height="130" align="left" src="https://warshallrho.github.io/images/2021dmotion.gif"/>
  
 &nbsp;  [Haoqi Yuan\*](https://yhqpkueecs.github.io/), **Ruihai Wu***, [Andrew Zhao\*](https://andrewzh112.github.io/), Haipeng Zhang, [Zihan Ding](https://quantumiracle.github.io/webpage/), [Hao Dong](http://zsdonghao.github.io/)  
 &nbsp;  IROS 2021  
@@ -63,7 +63,7 @@ __Localize, Assemble, and Predicate: Contextual Object Proposal Embedding for Vi
 <br>
 
 __Unpaired Image-to-Image Translation using Adversarial Consistency Loss__  
-<img width="195" height="130" align="left" src="https://warshallrho.github.io/images/acl_gan.png"/>
+<img width="195" height="130" align="left" src="https://warshallrho.github.io/images/2020aclgan.gif"/>
 
 &nbsp;  [Yihao Zhao](https://rivendile.github.io), **Ruihai Wu**, [Hao Dong](https://zsdonghao.github.io/)  
 &nbsp;  ECCV 2020  
