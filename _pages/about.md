@@ -32,7 +32,7 @@ __AdaAfford: Learning to Adapt Manipulation Affordance for 3D Articulated Object
 <img width="195" height="130" align="left" src="https://warshallrho.github.io/images/adaafford.png"/>
 
 &nbsp;  [Yian Wang\*](https://github.com/galaxy-qazzz), **Ruihai Wu***, [Kaichun Mo\*](https://www.cs.stanford.edu/~kaichun), Jiaqi Ke, [Qingnan Fan](https://fqnchina.github.io/), [Leonidas J. Guibas](https://geometry.stanford.edu/member/guibas/), [Hao Dong](http://zsdonghao.github.io/)  
-&nbsp;  arXiv:2112.00246 [cs.CV]  
+&nbsp;  ECCV 2022  
 &nbsp;  [\[Paper\]](https://arxiv.org/pdf/2112.00246.pdf), [\[Project\]](https://hyperplane-lab.github.io/AdaAfford/)  
 <br>
 
