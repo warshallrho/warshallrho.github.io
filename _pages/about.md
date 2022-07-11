@@ -27,9 +27,18 @@ I am currently a member in [Center on Frontiers of Computing Studies (CFCS)](htt
 Publications (\* denotes equal contribution)
 ------
 
+__DualAfford: Learning Collaborative Visual Affordance for Dual-gripper Object Manipulation__
+
+<img width="195" height="130" align="left" src="https://warshallrho.github.io/images/dualafford-real.png"/>
+
+&nbsp;  [Yan Zhao\*](https://sxy7147.github.io/), **Ruihai Wu***, Zhehuan Chen, [Yourong Zhang](https://www.linkedin.com/in/yourong-zhang-2b1aab23a/),  [Qingnan Fan](https://fqnchina.github.io/), [Kaichun Mo](https://www.cs.stanford.edu/~kaichun), [Hao Dong](http://zsdonghao.github.io/)  
+&nbsp;  arXiv:2207.01971 [cs.CV]
+&nbsp;  [\[Paper\]](https://arxiv.org/pdf/2207.01971.pdf), [\[Project\]](https://hyperplane-lab.github.io/DualAfford/)  
+<br>
+
 __AdaAfford: Learning to Adapt Manipulation Affordance for 3D Articulated Objects via Few-shot Interactions__
 
-<img width="195" height="130" align="left" src="https://warshallrho.github.io/images/adaafford.png"/>
+<img width="195" height="130" align="left" src="https://warshallrho.github.io/images/eccv_2022_AdaAfford.gif"/>
 
 &nbsp;  [Yian Wang\*](https://github.com/galaxy-qazzz), **Ruihai Wu***, [Kaichun Mo\*](https://www.cs.stanford.edu/~kaichun), Jiaqi Ke, [Qingnan Fan](https://fqnchina.github.io/), [Leonidas J. Guibas](https://geometry.stanford.edu/member/guibas/), [Hao Dong](http://zsdonghao.github.io/)  
 &nbsp;  ECCV 2022  
@@ -40,7 +49,7 @@ __VAT-Mart: Learning Visual Action Trajectory Proposals for Manipulating 3D ARTi
 
 <img width="195" height="130" align="left" src="https://warshallrho.github.io/images/vat_mart.gif"/>
 
-&nbsp;  **Ruihai Wu***, [Yan Zhao\*](https://www.researchgate.net/profile/Yan-Zhao-182), [Kaichun Mo\*](https://www.cs.stanford.edu/~kaichun), [Zizheng Guo](https://guozz.cn), [Yian Wang](https://github.com/galaxy-qazzz), [Tianhao Wu](https://moistchi.github.io/tianhaowu.github.io/), [Qingnan Fan](https://fqnchina.github.io/), [Xuelin Chen](https://xuelin-chen.github.io/), [Leonidas J. Guibas](https://geometry.stanford.edu/member/guibas/), [Hao Dong](http://zsdonghao.github.io/)  
+&nbsp;  **Ruihai Wu***, [Yan Zhao\*](https://sxy7147.github.io/), [Kaichun Mo\*](https://www.cs.stanford.edu/~kaichun), [Zizheng Guo](https://guozz.cn), [Yian Wang](https://github.com/galaxy-qazzz), [Tianhao Wu](https://moistchi.github.io/tianhaowu.github.io/), [Qingnan Fan](https://fqnchina.github.io/), [Xuelin Chen](https://xuelin-chen.github.io/), [Leonidas J. Guibas](https://geometry.stanford.edu/member/guibas/), [Hao Dong](http://zsdonghao.github.io/)  
 &nbsp;  ICLR 2022  
 &nbsp;  [\[Paper\]](https://arxiv.org/pdf/2106.14440.pdf), [\[Project\]](https://hyperplane-lab.github.io/vat-mart/), [\[Code\]](https://github.com/warshallrho/VAT-Mart), [\[Video\]](https://www.youtube.com/watch?v=HjhsLKf1eQY)  
 <br>
