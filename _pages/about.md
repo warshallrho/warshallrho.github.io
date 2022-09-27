@@ -17,7 +17,7 @@ redirect_from:
 About Me
 ------
 
-I am a second-year PhD student majoring in Computer Science at Peking University. My research interests include computer vision and robotics.
+I am a third-year PhD student majoring in Computer Science at Peking University. My research interests include computer vision and robotics.
 
 I am currently a member in [Center on Frontiers of Computing Studies (CFCS)](https://cfcs.pku.edu.cn/english/), Peking University, supervised by [Prof. Hao Dong](https://zsdonghao.github.io/). 
 
@@ -42,7 +42,7 @@ __AdaAfford: Learning to Adapt Manipulation Affordance for 3D Articulated Object
 
 &nbsp;  [Yian Wang\*](https://github.com/galaxy-qazzz), **Ruihai Wu***, [Kaichun Mo\*](https://www.cs.stanford.edu/~kaichun), Jiaqi Ke, [Qingnan Fan](https://fqnchina.github.io/), [Leonidas J. Guibas](https://geometry.stanford.edu/member/guibas/), [Hao Dong](http://zsdonghao.github.io/)  
 &nbsp;  ECCV 2022  
-&nbsp;  [\[Paper\]](https://arxiv.org/pdf/2112.00246.pdf), [\[Project\]](https://hyperplane-lab.github.io/AdaAfford/)  
+&nbsp;  [\[Paper\]](https://arxiv.org/pdf/2112.00246.pdf), [\[Project\]](https://hyperplane-lab.github.io/AdaAfford/), [\[Code\]](https://github.com/wangyian-me/AdaAffordCode/)
 <br>
 
 __VAT-Mart: Learning Visual Action Trajectory Proposals for Manipulating 3D ARTiculated Objects__  
@@ -136,6 +136,7 @@ Professional Activities
 Selected Honors and Awards
 ------
 
+- Research Excellence Award, *Peking University, 2022*
 - Excellent Graduate, *Peking University, 2020*
 - Peking University’s Third-class Scholarship, *Peking University, 2019*
 - Research Excellence Award, *Peking University, 2019*
