@@ -122,14 +122,15 @@ __Spreadsheet Intelligence, Microsoft Research Asia__
 Teaching Assistant
 ------
 
-- [Deep Generative Models](https://deep-generative-models.github.io/) (course for PhD and Master students), *2020, Spring*
+- [Deep Generative Models](https://deep-generative-models.github.io/) (course for PhD and Master students), *2020, 2022*
 
 
 
-Professional Activities
+Services
 ------
 
 - Reviewer: ICRA 2023, ICCV 2021
+- Volunteer: WINE 2020
 
 
 
