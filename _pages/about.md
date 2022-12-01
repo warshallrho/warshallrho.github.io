@@ -148,3 +148,4 @@ Selected Honors and Awards
 - Bronze medal in National Olympiad in Informatics (NOI), *China Computer Federation, 2015*
 - First prize (three times) in National Olympiad in Informatics in Provinces (NOIP), *China Computer Federation, 2013, 2014, 2015*
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwarshallrho.github.io&count_bg=%23D13030&title_bg=%23361A1A&icon=habr.svg&icon_color=%23E7E7E7&title=&edge_flat=false)](https://hits.seeyoufarm.com)
