@@ -27,6 +27,15 @@ I am currently a member in [Center on Frontiers of Computing Studies (CFCS)](htt
 Publications (\* denotes equal contribution)
 ------
 
+__Learning Foresightful Dense Visual Affordance for Deformable Object Manipulation__
+
+<img width="195" height="130" align="left" src="https://warshallrho.github.io/images/deformable.png"/>
+
+&nbsp;  **Ruihai Wu***, [Chuanruo Ning](https://tritiumr.github.io/)*, [Hao Dong](http://zsdonghao.github.io/)  
+&nbsp;  ArXiv 2023  
+&nbsp;  [\[Paper\]](https://arxiv.org/abs/2303.11057), [\[Project\]](https://hyperplane-lab.github.io/DeformableAffordance/) 
+<br><br>
+
 __DualAfford: Learning Collaborative Visual Affordance for Dual-gripper Object Manipulation__
 
 <img width="195" height="130" align="left" src="https://warshallrho.github.io/images/dualafford-real.png"/>
