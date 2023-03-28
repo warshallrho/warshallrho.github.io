@@ -87,7 +87,7 @@ __Unpaired Image-to-Image Translation using Adversarial Consistency Loss__
 
 &nbsp;  [Yihao Zhao](https://rivendile.github.io), **Ruihai Wu**, [Hao Dong](https://zsdonghao.github.io/)  
 &nbsp;  ECCV 2020  
-&nbsp;  [\[Paper\]](https://arxiv.org/abs/2003.04858), [\[Project\]](https://rivendile.github.io/ACL-GAN/), [\[Code\]](https://github.com/hyperplane-lab/ACL-GAN)  
+&nbsp;  [\[Paper\]](https://arxiv.org/abs/2003.04858), [\[Project\]](https://hyperplane-lab.github.io/acl-gan-page/), [\[Code\]](https://github.com/hyperplane-lab/ACL-GAN)  
 <br>
 
 __TDMPNet: Prototype Network with Recurrent Top-Down Modulation for Robust Object Classification under Partial Occlusion__
