@@ -33,7 +33,7 @@ __Learning Foresightful Dense Visual Affordance for Deformable Object Manipulati
 
 &nbsp;  **Ruihai Wu***, [Chuanruo Ning\*](https://tritiumr.github.io/), [Hao Dong](http://zsdonghao.github.io/)  
 &nbsp;  ArXiv 2023  
-&nbsp;  [\[Paper\]](https://arxiv.org/abs/2303.11057), [\[Project\]](https://hyperplane-lab.github.io/DeformableAffordance/) 
+&nbsp;  [\[Paper\]](https://arxiv.org/abs/2303.11057), [\[Project\]](https://hyperplane-lab.github.io/DeformableAffordance/), [\[Video\]](https://youtu.be/DiZ9aXjK_PU), [\[Video (real world)\]](https://youtu.be/aYneBzwhOGs)  
 <br><br><br><br><br><br>
 
 __DualAfford: Learning Collaborative Visual Affordance for Dual-gripper Object Manipulation__
