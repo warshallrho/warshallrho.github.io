@@ -38,7 +38,7 @@ __Learning Foresightful Dense Visual Affordance for Deformable Object Manipulati
 
 __DualAfford: Learning Collaborative Visual Affordance for Dual-gripper Object Manipulation__
 
-<img width="195" height="130" align="left" src="https://warshallrho.github.io/images/dualafford-real.png"/>
+<img width="195" height="130" align="left" src="https://warshallrho.github.io/images/2022-dualafford.gif"/>
 
 &nbsp;  [Yan Zhao\*](https://sxy7147.github.io/), **Ruihai Wu***, Zhehuan Chen, [Yourong Zhang](https://www.linkedin.com/in/yourong-zhang-2b1aab23a/),  [Qingnan Fan](https://fqnchina.github.io/), [Kaichun Mo](https://www.cs.stanford.edu/~kaichun), [Hao Dong](http://zsdonghao.github.io/)  
 &nbsp;  ICLR 2023  
