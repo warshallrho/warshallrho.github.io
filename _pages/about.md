@@ -32,7 +32,7 @@ __Learning Foresightful Dense Visual Affordance for Deformable Object Manipulati
 <img width="195" height="130" align="left" src="https://warshallrho.github.io/images/deformable.png"/>
 
 &nbsp;  **Ruihai Wu***, [Chuanruo Ning\*](https://tritiumr.github.io/), [Hao Dong](http://zsdonghao.github.io/)  
-&nbsp;  ArXiv 2023  
+&nbsp;  arXiv:2303.11057 [cs.CV] 
 &nbsp;  [\[Paper\]](https://arxiv.org/abs/2303.11057), [\[Project\]](https://hyperplane-lab.github.io/DeformableAffordance/)  
 &nbsp;  [\[Video\]](https://youtu.be/DiZ9aXjK_PU), [\[Video (real world)\]](https://youtu.be/aYneBzwhOGs)  
 <br><br><br><br>
@@ -155,7 +155,6 @@ Selected Honors and Awards
 - Star of Tomorrow Excellent Intern, *Microsoft Research Asia, 2019*
 - May Fourth Scholarship, *Peking University, 2018*
 - Academic Excellence Award, *Peking University, 2018*
-- Excellent Coach Award (three times) in Olympiad in Informatics Camp, *Olympic Committee of Jiangsu Province, 2016, 2017, 2018*
 - Bronze medal in National Olympiad in Informatics (NOI), *China Computer Federation, 2015*
 - First prize (three times) in National Olympiad in Informatics in Provinces (NOIP), *China Computer Federation, 2013, 2014, 2015*
 
