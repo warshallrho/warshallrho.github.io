@@ -74,7 +74,7 @@ __DMotion: Robotic Visuomotor Control with Unsupervised Forward Model Learned fr
 
 __Localize, Assemble, and Predicate: Contextual Object Proposal Embedding for Visual Relation Detection__  
 
-<img width="195" height="130" align="left" src="https://warshallrho.github.io/images/vrd.png"/>
+<img width="195" height="130" align="left" src="https://warshallrho.github.io/images/vrd.gif"/>
 
 &nbsp;  **Ruihai Wu**, [Kehan Xu](https://fiona730.github.io/), Chenchen Liu, Nan Zhuang, [Yadong Mu](http://www.muyadong.com/)  
 &nbsp;  AAAI 2020, <font color=red>Oral</font>  
