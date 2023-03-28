@@ -33,8 +33,9 @@ __Learning Foresightful Dense Visual Affordance for Deformable Object Manipulati
 
 &nbsp;  **Ruihai Wu***, [Chuanruo Ning\*](https://tritiumr.github.io/), [Hao Dong](http://zsdonghao.github.io/)  
 &nbsp;  ArXiv 2023  
-&nbsp;  [\[Paper\]](https://arxiv.org/abs/2303.11057), [\[Project\]](https://hyperplane-lab.github.io/DeformableAffordance/), [\[Video\]](https://youtu.be/DiZ9aXjK_PU), [\[Video (real world)\]](https://youtu.be/aYneBzwhOGs)  
-<br><br><br><br><br><br>
+&nbsp;  [\[Paper\]](https://arxiv.org/abs/2303.11057), [\[Project\]](https://hyperplane-lab.github.io/DeformableAffordance/)
+&nbsp;  [\[Video\]](https://youtu.be/DiZ9aXjK_PU), [\[Video (real world)\]](https://youtu.be/aYneBzwhOGs)  
+<br><br><br><br><br>
 
 __DualAfford: Learning Collaborative Visual Affordance for Dual-gripper Object Manipulation__
 
@@ -42,7 +43,7 @@ __DualAfford: Learning Collaborative Visual Affordance for Dual-gripper Object M
 
 &nbsp;  [Yan Zhao\*](https://sxy7147.github.io/), **Ruihai Wu***, Zhehuan Chen, [Yourong Zhang](https://www.linkedin.com/in/yourong-zhang-2b1aab23a/),  [Qingnan Fan](https://fqnchina.github.io/), [Kaichun Mo](https://www.cs.stanford.edu/~kaichun), [Hao Dong](http://zsdonghao.github.io/)  
 &nbsp;  ICLR 2023  
-&nbsp;  [\[Paper\]](https://arxiv.org/pdf/2207.01971.pdf), [\[Project\]](https://hyperplane-lab.github.io/DualAfford/)  , [\[Video\]](https://youtu.be/J0UUE2FvOCE)  
+&nbsp;  [\[Paper\]](https://arxiv.org/pdf/2207.01971.pdf), [\[Project\]](https://hyperplane-lab.github.io/DualAfford/), [\[Video\]](https://youtu.be/J0UUE2FvOCE)  
 <br>
 
 __AdaAfford: Learning to Adapt Manipulation Affordance for 3D Articulated Objects via Few-shot Interactions__
