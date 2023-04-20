@@ -1,0 +1,484 @@
+<!DOCTYPE HTML>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+  <title>Ruihai Wu</title>
+  
+  <meta name="author" content="Ruihai Wu">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="stylesheet" type="text/css" href="stylesheet.css">
+	<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⭐️</text></svg>">
+</head>
+
+<body>
+  <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+    <tr style="padding:0px">
+      <td style="padding:0px">
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+          <tr style="padding:0px">
+            <td style="padding:2.5%;width:63%;vertical-align:middle">
+              <p style="text-align:center">
+                <name>Ruihai Wu</name>
+              </p>
+              <p>I am a third-year PhD Candidate in <a href="https://cfcs.pku.edu.cn/english/"> Center on Frontiers of Computing Studies (CFCS)</a> at <a href="https://english.pku.edu.cn/">Peking University</a>, advised by Professor <a href="https://zsdonghao.github.io/">Hao Dong</a>.
+              </p>
+              <p>
+                  My research interests include computer vision and robotics.
+              </p>
+              <p>
+                Email: wuruihai [at] pku.edu.cn
+              </p>
+              <p style="text-align:center">
+                <a href="mailto:wuruihai@pku.edu.cn">Email</a> &nbsp/&nbsp
+                <a href="https://scholar.google.com/citations?hl=en&user=qVyvE6UAAAAJ">Google Scholar</a> &nbsp/&nbsp
+                <a href="https://github.com/warshallrho/">Github</a>
+              </p>
+            </td>
+            <td style="padding:2.5%;width:40%;max-width:40%">
+              <a href="images/selfie.jpeg"><img style="width:100%;max-width:100%" alt="profile photo" src="images/selfie.jpeg" class="hoverZoomLink"></a>
+            </td>
+          </tr>
+        </tbody></table>
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+            <tr>
+            <td style="padding:20px;width:100%;vertical-align:middle">
+              <heading>Publications</heading>&nbsp&nbsp&nbsp&nbsp&nbsp (* denotes equal contribution)
+            </td>
+          </tr>
+        </tbody></table>
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+
+
+          <tr onmouseout="deformable_stop()" onmouseover="deformable_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='deformable_image'>
+                  <img src='images/deformable.png' width="187"></div>
+                <img src='images/deformable.png' width="187">
+              </div>
+              <script type="text/javascript">
+                function deformable_start() {
+                  document.getElementById('deformable_image').style.opacity = "1";
+                }
+
+                function deformable_stop() {
+                  document.getElementById('deformable_image').style.opacity = "0";
+                }
+                deformable_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://hyperplane-lab.github.io/DeformableAffordance/">
+              <papertitle>Learning Foresightful Dense Visual Affordance for Deformable Object Manipulation
+              </papertitle>
+              </a>
+              <br>
+              <strong>Ruihai Wu</strong>*,
+              <a href="https://tritiumr.github.io/">Chuanruo Ning</a>*,
+              <a href="http://zsdonghao.github.io/">Hao Dong</a>
+              <br>
+              <em>arXiv 2023</em>
+              <br>
+              <a href="https://hyperplane-lab.github.io/DeformableAffordance/">project page</a>
+              /
+              <a href="https://arxiv.org/abs/2303.11057">paper</a>
+              /
+              <a href="https://youtu.be/DiZ9aXjK_PU">video</a>
+              /
+              <a href="https://youtu.be/aYneBzwhOGs">video (real world)</a>
+              <p></p>
+              <p>We study
+deformable object manipulation using dense visual affordance, with generalization towards diverse states, and propose a novel kind of foresightful dense affordance, which
+avoids local optima by estimating states’ values for longterm manipulation. </p>
+            </td>
+          </tr>
+
+             <tr onmouseout="dualafford_stop()" onmouseover="dualafford_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='dualafford_image'>
+                  <img src='images/2022-dualafford.gif' width="187"></div>
+                <img src='images/2022-dualafford.gif' width="187">
+              </div>
+              <script type="text/javascript">
+                function dualafford_start() {
+                  document.getElementById('dualafford_image').style.opacity = "1";
+                }
+
+                function dualafford_stop() {
+                  document.getElementById('dualafford_image').style.opacity = "0";
+                }
+                dualafford_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://hyperplane-lab.github.io/DualAfford/">
+              <papertitle>DualAfford: Learning Collaborative Visual Affordance for Dual-gripper Object Manipulation
+              </papertitle>
+              </a>
+              <br>
+              <a href="https://sxy7147.github.io/">Yan Zhao</a>*,
+              <strong>Ruihai Wu</strong>*,
+              Zhehuan Chen,
+              <a href="https://www.linkedin.com/in/yourong-zhang-2b1aab23a/">Yourong Zhang</a>,
+              <a href="https://fqnchina.github.io/">Qingnan Fan</a>,
+              <a href="https://kaichun-mo.github.io/">Kaichun Mo</a>,
+              <a href="http://zsdonghao.github.io/">Hao Dong</a>
+              <br>
+              <em>ICLR 2023</em>
+              <br>
+              <a href="https://hyperplane-lab.github.io/DualAfford/">project page</a>
+              /
+              <a href="https://arxiv.org/pdf/2207.01971.pdf">paper</a>
+              /
+              <a href="https://youtu.be/J0UUE2FvOCE">video</a>
+              <p></p>
+              <p>We study collaborative affordance for dual-gripper manipulation. The core is to reduce the quadratic problem for two grippers into two disentangled yet interconnected subtasks. </p>
+            </td>
+          </tr>
+
+
+             <tr onmouseout="adaafford_stop()" onmouseover="adaafford_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='adaafford_image'>
+                  <img src='images/eccv_2022_AdaAfford.gif' width="187"></div>
+                <img src='images/eccv_2022_AdaAfford.gif' width="187">
+              </div>
+              <script type="text/javascript">
+                function adaafford_start() {
+                  document.getElementById('adaafford_image').style.opacity = "1";
+                }
+
+                function adaafford_stop() {
+                  document.getElementById('adaafford_image').style.opacity = "0";
+                }
+                adaafford_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://hyperplane-lab.github.io/AdaAfford/">
+              <papertitle>AdaAfford: Learning to Adapt Manipulation Affordance for 3D Articulated Objects via Few-shot Interactions
+              </papertitle>
+              </a>
+              <br>
+              <a href="https://github.com/wangyian-me">Yian Wang</a>*,
+              <strong>Ruihai Wu</strong>*,
+              <a href="https://kaichun-mo.github.io/">Kaichun Mo</a>*,
+              Jiaqi Ke,
+              <a href="https://fqnchina.github.io/">Qingnan Fan</a>,
+              <a href="https://geometry.stanford.edu/member/guibas/">Leonidas J. Guibas</a>,
+              <a href="http://zsdonghao.github.io/">Hao Dong</a>
+              <br>
+              <em>ECCV 2022</em>
+              <br>
+              <a href="https://hyperplane-lab.github.io/AdaAfford/">project page</a>
+              /
+              <a href="https://arxiv.org/pdf/2112.00246.pdf">paper</a>
+              /
+              <a href="https://github.com/wangyian-me/AdaAffordCode/">code</a>
+              <p></p>
+              <p>We study performing very few test-time interactions for quickly adapting the affordance priors to more accurate instance-specific posteriors. </p>
+            </td>
+          </tr>
+
+
+             <tr onmouseout="vatmart_stop()" onmouseover="vatmart_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='vatmart_image'>
+                  <img src='images/vat_mart.gif' width="187"></div>
+                <img src='images/vat_mart.gif' width="187">
+              </div>
+              <script type="text/javascript">
+                function vatmart_start() {
+                  document.getElementById('vatmart_image').style.opacity = "1";
+                }
+
+                function vatmart_stop() {
+                  document.getElementById('vatmart_image').style.opacity = "0";
+                }
+                vatmart_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://hyperplane-lab.github.io/vat-mart/">
+              <papertitle>VAT-Mart: Learning Visual Action Trajectory Proposals for Manipulating 3D ARTiculated Objects
+              </papertitle>
+              </a>
+              <br>
+              <strong>Ruihai Wu</strong>*,
+              <a href="https://sxy7147.github.io/">Yan Zhao</a>*,
+              <a href="https://kaichun-mo.github.io/">Kaichun Mo</a>*,
+              <a href="https://guozz.cn/">Zizheng Guo</a>,
+              <a href="https://github.com/wangyian-me">Yian Wang</a>,
+              <a href="https://tianhaowuhz.github.io/">Tianhao Wu</a>,
+              <a href="https://fqnchina.github.io/">Qingnan Fan</a>,
+              <a href="https://xuelin-chen.github.io/">Xuelin Chen</a>,
+              <a href="https://geometry.stanford.edu/member/guibas/">Leonidas J. Guibas</a>,
+              <a href="http://zsdonghao.github.io/">Hao Dong</a>
+              <br>
+              <em>ICLR 2022</em>
+              <br>
+              <a href="https://hyperplane-lab.github.io/vat-mart/">project page</a>
+              /
+              <a href="https://arxiv.org/pdf/2106.14440.pdf">paper</a>
+              /
+              <a href="https://github.com/warshallrho/VAT-Mart">code</a>
+              /
+              <a href="https://www.youtube.com/watch?v=HjhsLKf1eQY">video</a>
+              <p></p>
+              <p>We study dense geometry-aware, interaction-aware, and task-aware visual action affordance and trajectory proposals for manipulating articulated objects. </p>
+            </td>
+          </tr>
+
+
+             <tr onmouseout="dmotion_stop()" onmouseover="dmotion_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='dmotion_image'>
+                  <img src='images/2021dmotion.gif' width="187"></div>
+                <img src='images/2021dmotion.gif' width="187">
+              </div>
+              <script type="text/javascript">
+                function dmotion_start() {
+                  document.getElementById('dmotion_image').style.opacity = "1";
+                }
+
+                function dmotion_stop() {
+                  document.getElementById('dmotion_image').style.opacity = "0";
+                }
+                dmotion_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://hyperplane-lab.github.io/dmotion/">
+              <papertitle>DMotion: Robotic Visuomotor Control with Unsupervised Forward Model Learned from Videos
+              </papertitle>
+              </a>
+              <br>
+              <a href="https://yhqpkueecs.github.io/">Haoqi Yuan</a>*,
+              <strong>Ruihai Wu</strong>*,
+              <a href="https://andrewzh112.github.io/">Andrew Zhao</a>*,
+              Haipeng Zhang,
+              <a href="https://quantumiracle.github.io/webpage/">Zihan Ding</a>,
+              <a href="http://zsdonghao.github.io/">Hao Dong</a>
+              <br>
+              <em>IROS 2021</em>
+              <br>
+              <a href="https://hyperplane-lab.github.io/dmotion/">project page</a>
+              /
+              <a href="https://arxiv.org/pdf/2103.04301.pdf">paper</a>
+              /
+              <a href="https://github.com/hyperplane-lab/dmotion-code">code</a>
+              <p></p>
+              <p>We train a forward model from video data only, via disentangling the motion of controllable agent to model the transition dynamics. </p>
+            </td>
+          </tr>
+
+
+             <tr onmouseout="aclgan_stop()" onmouseover="aclgan_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='aclgan_image'>
+                  <img src='images/2020aclgan.gif' width="187"></div>
+                <img src='images/2020aclgan.gif' width="187">
+              </div>
+              <script type="text/javascript">
+                function aclgan_start() {
+                  document.getElementById('aclgan_image').style.opacity = "1";
+                }
+
+                function aclgan_stop() {
+                  document.getElementById('aclgan_image').style.opacity = "0";
+                }
+                aclgan_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://hyperplane-lab.github.io/acl-gan-page/">
+              <papertitle>Unpaired Image-to-Image Translation using Adversarial Consistency Loss
+              </papertitle>
+              </a>
+              <br>
+              <a href="https://rivendile.github.io/">Yihao Zhao</a>,
+              <strong>Ruihai Wu</strong>,
+              <a href="http://zsdonghao.github.io/">Hao Dong</a>
+              <br>
+              <em>ECCV 2020</em>
+              <br>
+              <a href="https://hyperplane-lab.github.io/acl-gan-page/">project page</a>
+              /
+              <a href="https://arxiv.org/abs/2003.04858">paper</a>
+              /
+              <a href="https://github.com/hyperplane-lab/aclgan-code">code</a>
+              <p></p>
+              <p> We propose adversarial consistency loss for image-to-image translation that does not require the translated image to be translated back to the source image. </p>
+            </td>
+          </tr>
+
+
+             <tr onmouseout="vrd_stop()" onmouseover="vrd_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='vrd_image'>
+                  <img src='images/vrd.gif' width="187"></div>
+                <img src='images/vrd.gif' width="187">
+              </div>
+              <script type="text/javascript">
+                function vrd_start() {
+                  document.getElementById('vrd_image').style.opacity = "1";
+                }
+
+                function vrd_stop() {
+                  document.getElementById('vrd_image').style.opacity = "0";
+                }
+                vrd_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://aaai.org/ojs/index.php/AAAI/article/view/6913">
+              <papertitle>Localize, Assemble, and Predicate: Contextual Object Proposal Embedding for Visual Relation Detection
+              </papertitle>
+              </a>
+              <br>
+              <strong>Ruihai Wu</strong>,
+              <a href="https://fiona730.github.io/">Kehan Xu</a>,
+              Chenchen Liu,
+              Nan Zhuang,
+              <a href="http://www.muyadong.com/">Yadong Mu</a>
+              <br>
+              <em>AAAI 2020</em>
+              <b style="color: red;">(Oral presentation) </b>
+              <br>
+              <a href="https://aaai.org/ojs/index.php/AAAI/article/view/6913">paper</a>
+              <p></p>
+              <p> We propose localize-assemble-predicate network (LAP-Net), decomposing visual relation detection (VRD) into three sub-tasks to tackle the long-tailed data distribution problem. </p>
+            </td>
+          </tr>
+
+             <tr onmouseout="tdmpnet_stop()" onmouseover="tdmpnet_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='tdmpnet_image'>
+                  <img src='images/tdmpnet.png' width="187"></div>
+                <img src='images/tdmpnet.png' width="187">
+              </div>
+              <script type="text/javascript">
+                function tdmpnet_start() {
+                  document.getElementById('tdmpnet_image').style.opacity = "1";
+                }
+
+                function tdmpnet_stop() {
+                  document.getElementById('tdmpnet_image').style.opacity = "0";
+                }
+                tdmpnet_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://openreview.net/forum?id=v_KSmk9B5kt">
+              <papertitle>TDMPNet: Prototype Network with Recurrent Top-Down Modulation for Robust Object Classification under Partial Occlusion
+              </papertitle>
+              </a>
+              <br>
+              <a href="https://pkuxmq.github.io/">Mingqing Xiao</a>,
+              <a href="https://adamkortylewski.com/">Adam Kortylewski</a>,
+              <strong>Ruihai Wu</strong>,
+              <a href="https://www.cs.jhu.edu/~syqiao/">Siyuan Qiao</a>,
+              <a href="https://shenwei1231.github.io/">Wei Shen</a>,
+              <a href="https://www.cs.jhu.edu/~ayuille/">Alan Yuille</a>
+              <br>
+              <em>ECCV 2020 <a href="https://openreview.net/group?id=thecvf.com/ECCV/2020/Workshop/VIPriors">Visual Inductive Priors for Data-Efficient Deep Learning Workshop </a> </em>
+              <br>
+              <a href="https://openreview.net/forum?id=v_KSmk9B5kt">paper</a>
+              <p></p>
+              <p> We introduce prototype learning, partial matching and convolution layers with top-down modulation, purposefully reducing the contamination by occlusion during feature extraction. </p>
+            </td>
+          </tr>
+
+        </tbody></table>
+
+        <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20"><tbody>
+          <tr>
+            <td>
+              <heading>Services</heading>
+            </td>
+          </tr>
+        </tbody></table>
+        <table width="100%" align="center" border="0" cellpadding="20"><tbody>
+          <tr>
+            <td width="75%" valign="center">
+              Reviewer: ICCV <em>2021</em>, CVPR <em>2023</em> <a href="https://sites.google.com/view/cvpr2023-3d-vision-robotics">Workshop on 3D Vision and Robotics (3DVR) </a>
+              <br>
+              Volunteer: Wine <em>2020</em>
+            </td>
+          </tr>
+        </tbody></table>
+
+
+        <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20"><tbody>
+          <tr>
+            <td>
+              <heading>Teaching Assistant</heading>
+            </td>
+          </tr>
+        </tbody></table>
+        <table width="100%" align="center" border="0" cellpadding="20"><tbody>
+
+          <tr>
+            <td width="75%" valign="center">
+                <a href="https://deep-generative-models.github.io/">Deep Generative Models, <em> 2020, 2022 </em></a>
+            </td>
+          </tr>
+
+        </tbody></table>
+
+        <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20"><tbody>
+          <tr>
+            <td>
+              <heading>Honors and Awards</heading>
+            </td>
+          </tr>
+        </tbody></table>
+        <table width="100%" align="center" border="0" cellpadding="20"><tbody>
+          <tr>
+            <td width="75%" valign="center">
+              Research Excellence Award，   <em>Peking University, 2022</em>
+              <br>
+              Excellent Graduate，   <em>Peking University, 2020</em>
+              <br>
+              Peking University’s Third-class Scholarship，   <em>Peking University, 2019</em>
+              <br>
+              Research Excellence Award，   <em>Peking University, 2019</em>
+              <br>
+              Star of Tomorrow Excellent Intern，   <em>Microsoft Research Asia, 2019</em>
+              <br>
+              May Fourth Scholarship，   <em>Peking University, 2018</em>
+              <br>
+              Academic Excellence Award，   <em>Peking University, 2018</em>
+              <br>
+              Bronze medal in National Olympiad in Informatics (NOI),   <em>China Computer Federation, 2015</em>
+              <br>
+              First prize in National Olympiad in Informatics in Provinces (NOIP)，   <em>China Computer Federation, 2013, 2014, 2015</em>
+              <br>
+            </td>
+          </tr>
+
+        </tbody></table>
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+          <tr>
+            <td style="padding:0px">
+              <br>
+                  <div style="float:right;">
+                    Website template comes from <a href="https://jonbarron.info/">Jon Barron</a><br>
+                      Last update: April, 2023
+                  </div>
+            </td>
+          </tr>
+        </tbody></table>
+      </td>
+    </tr>
+  </table>
+</body>
+
+</html>
