@@ -49,6 +49,46 @@
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 
 
+          <tr onmouseout="assembly_stop()" onmouseover="assembly_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='assembly_image'>
+                  <img src='images/assembly.gif' width="187"></div>
+                <img src='images/assembly.gif' width="187">
+              </div>
+              <script type="text/javascript">
+                function assembly_start() {
+                  document.getElementById('assembly_image').style.opacity = "1";
+                }
+
+                function assembly_stop() {
+                  document.getElementById('assembly_image').style.opacity = "0";
+                }
+                assembly_stop()
+              </script>
+            </td>
+
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://hyperplane-lab.github.io/EQVAssembly/">
+              <papertitle>Leveraging SE(3) Equivariance for Learning 3D Geometric Shape Assembly
+              </papertitle>
+              </a>
+              <br>
+              <strong>Ruihai Wu</strong>*,
+              <a href="https://crtie.github.io/">Chenrui Tie</a>*,
+              Yushi Du*,
+              <a href="https://sxy7147.github.io/">Yan Zhao</a>,
+              <a href="http://zsdonghao.github.io/">Hao Dong</a>
+              <br>
+              <em>ICCV 2023</em>
+              <br>
+              paper coming soon
+              <p></p>
+              <p>We study geometric shape assembly by leveraging SE(3) Equivariance, which disentangles poses and shapes of fractured parts. </p>
+            </td>
+          </tr>
+
+
           <tr onmouseout="deformable_stop()" onmouseover="deformable_start()">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
@@ -77,7 +117,7 @@
               <a href="https://tritiumr.github.io/">Chuanruo Ning</a>*,
               <a href="http://zsdonghao.github.io/">Hao Dong</a>
               <br>
-              <em>arXiv 2023</em>
+              <em>ICCV 2023</em>
               <br>
               <a href="https://hyperplane-lab.github.io/DeformableAffordance/">project page</a>
               /
