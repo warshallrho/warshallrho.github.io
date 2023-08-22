@@ -52,6 +52,53 @@
           <tr onmouseout="assembly_stop()" onmouseover="assembly_start()">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
+                <div class="two" id='dpart_image'>
+                  <img src='images/dpart.png' width="187"></div>
+                <img src='images/dpart.png' width="187">
+              </div>
+              <script type="text/javascript">
+                function dpart_start() {
+                  document.getElementById('dpart_image').style.opacity = "1";
+                }
+
+                function dpart_stop() {
+                  document.getElementById('dpart_image').style.opacity = "0";
+                }
+                dpart_stop()
+              </script>
+            </td>
+
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://Yushi-Du.github.io/dpart/">
+              <papertitle>Learning Part Motion of Articulated Objects Using Spatially Continuous Neural Implicit Representations
+              </papertitle>
+              </a>
+              <br>
+              Yushi Du*,
+              <strong>Ruihai Wu</strong>*,
+              <a href="https://sxy7147.github.io/">Yan Shen</a>,
+              <a href="http://zsdonghao.github.io/">Hao Dong</a>
+              <br>
+              <em>BMVC 2023</em>
+              <br>
+              <a href="https://Yushi-Du.github.io/dpart/">project page</a>
+              /
+<!--              <a href="https://arxiv.org/abs/2303.11057">paper</a>-->
+              paper (coming soon)
+              /
+<!--              <a href="https://github.com/crtie/Leveraging-SE-3-Equivariance-for-Learning-3D-Geometric-Shape-Assembly">code</a>-->
+              code (coming soon)
+<!--              /-->
+<!--              <a href="https://youtu.be/pEtIAal-xgQ">video</a>-->
+              <p></p>
+              <p>We introduce a novel framework that explicitly disentangles the part motion of articulated objects by predicting the movements of articulated parts by utilizing spatially continuous neural implicit representations. </p>
+            </td>
+          </tr>
+
+
+          <tr onmouseout="assembly_stop()" onmouseover="assembly_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
                 <div class="two" id='assembly_image'>
                   <img src='images/assembly.gif' width="187"></div>
                 <img src='images/assembly.gif' width="187">
