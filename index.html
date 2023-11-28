@@ -430,6 +430,48 @@
             </td>
           </tr>
 
+                       <tr onmouseout="dmotion_stop()" onmouseover="dmotion_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='dmotion_image'>
+                  <img src='images/2021dmotion.gif' width="187"></div>
+                <img src='images/2021dmotion.gif' width="187">
+              </div>
+              <script type="text/javascript">
+                function dmotion_start() {
+                  document.getElementById('dmotion_image').style.opacity = "1";
+                }
+                function dmotion_stop() {
+                  document.getElementById('dmotion_image').style.opacity = "0";
+                }
+                dmotion_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://hyperplane-lab.github.io/dmotion/">
+              <papertitle>DMotion: Robotic Visuomotor Control with Unsupervised Forward Model Learned from Videos
+              </papertitle>
+              </a>
+              <br>
+              <a href="https://yhqpkueecs.github.io/">Haoqi Yuan</a>*,
+              <strong>Ruihai Wu</strong>*,
+              <a href="https://andrewzh112.github.io/">Andrew Zhao</a>*,
+              Haipeng Zhang,
+              <a href="https://quantumiracle.github.io/webpage/">Zihan Ding</a>,
+              <a href="http://zsdonghao.github.io/">Hao Dong</a>
+              <br>
+              <em>IROS 2021</em>
+              <br>
+              <a href="https://hyperplane-lab.github.io/dmotion/">project page</a>
+              /
+              <a href="https://arxiv.org/pdf/2103.04301.pdf">paper</a>
+              /
+              <a href="https://github.com/hyperplane-lab/dmotion-code">code</a>
+              <p></p>
+              <p>We train a forward model from video data only, via disentangling the motion of controllable agent to model the transition dynamics. </p>
+            </td>
+          </tr>
+
              <tr onmouseout="aclgan_stop()" onmouseover="aclgan_start()">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
