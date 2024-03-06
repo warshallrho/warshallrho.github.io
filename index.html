@@ -51,6 +51,59 @@
 
 
 
+          <tr onmouseout="roboexp_stop()" onmouseover="roboexp_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='roboexp_image'>
+                  <img src='images/roboexp.gif' width="187"></div>
+                <img src='images/roboexp.gif' width="187">
+              </div>
+              <script type="text/javascript">
+                function roboexp_start() {
+                  document.getElementById('roboexp_image').style.opacity = "1";
+                }
+
+                function roboexp_stop() {
+                  document.getElementById('roboexp_image').style.opacity = "0";
+                }
+                roboexp_stop()
+              </script>
+            </td>
+
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://jianghanxiao.github.io/roboexp-web/">
+              <papertitle>RoboEXP: Action-Conditioned Scene Graph via Interactive Exploration for Robotic Manipulation
+              </papertitle>
+              </a>
+              <br>
+              <a href="https://jianghanxiao.github.io/">Hanxiao Jiang</a>
+              <a href="https://binghao-huang.github.io/">Binghao Huang</a>
+              <strong>Ruihai Wu</strong>,
+              <a href="https://sg.linkedin.com/in/zhuoran-li-david">Zhuoran Li</a>
+              <a href="https://www.gargshubham.com/">Shubham Garg</a>
+              <a href="https://www.amazon.science/author/hooshang-nayyeri">Hooshang Nayyeri</a>
+              <a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a>
+              <a href="https://yunzhuli.github.io/">Yunzhu Li</a>
+              <br>
+              <em>ArXiv 2024</em>
+              <br>
+              <a href="https://jianghanxiao.github.io/roboexp-web/">project page</a>
+              /
+              <a href="https://arxiv.org/abs/2402.15487">paper</a>
+<!--              paper (coming soon)-->
+              /
+              <a href="https://github.com/Jianghanxiao/RoboEXP">code</a>
+<!--              code (coming soon)-->
+              /
+<!--              video (coming soon)-->
+              <a href="https://youtu.be/xZ1gfLRXSOE">video</a>
+              <p></p>
+              <p>We formulate interactive exploration as an action-conditioned 3D scene graph (ACSG) construction and traversal problem. Our ACSG is an actionable, spatial-topological representation that models objects and their interactive and spatial relations in a scene, capturing both the high-level graph and corresponding low-level memory. </p>
+            </td>
+          </tr>
+
+
+
           <tr onmouseout="garment_stop()" onmouseover="garment_start()">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
@@ -92,6 +145,7 @@
 <!--              <a href="https://github.com/crtie/Leveraging-SE-3-Equivariance-for-Learning-3D-Geometric-Shape-Assembly">code</a>-->
               code (coming soon)
               /
+              video (coming soon)
 <!--              <a href="https://youtu.be/pEtIAal-xgQ">video</a>-->
               <p></p>
               <p>We propose to learn dense visual correspondence for diverse garment manipulation tasks with category-level generalization using only a few annotations. </p>
