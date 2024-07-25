@@ -21,7 +21,7 @@
                 <name>Ruihai Wu</name>
               </p>
               <p>I am a fourth-year PhD Candidate in <a href="https://cfcs.pku.edu.cn/english/"> Center on Frontiers of Computing Studies (CFCS)</a> at <a href="https://english.pku.edu.cn/">Peking University</a>.
-                , advised by Professor <a href="https://zsdonghao.github.io/">Hao Dong</a>. Currently, I am a visiting PhD student at <a href="https://illinois.edu/">University of Illinois Urbana-Champaign (UIUC)</a>, advised by Professor <a href="https://yunzhuli.github.io/">Yunzhu Li</a>.
+                , advised by Professor <a href="https://zsdonghao.github.io/">Hao Dong</a>.
               </p>
               <p>
                   My research interests include computer vision and robotics.
@@ -50,6 +50,106 @@
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 
 
+
+          <tr onmouseout="garment_stop()" onmouseover="garment_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='garment_image'>
+                  <img src='images/garment.jpg' width="187"></div>
+                <img src='images/garment.jpg' width="187">
+              </div>
+              <script type="text/javascript">
+                function garment_start() {
+                  document.getElementById('garment_image').style.opacity = "1";
+                }
+
+                function garment_stop() {
+                  document.getElementById('garment_image').style.opacity = "0";
+                }
+                garment_stop()
+              </script>
+            </td>
+
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://warshallrho.github.io/unigarmentmanip/">
+              <papertitle>UniGarmentManip: A Unified Framework for Category-Level Garment Manipulation via Dense Visual Correspondence
+              </papertitle>
+              </a>
+              <br>
+              <strong>Ruihai Wu</strong>*,
+              Haoran Lu*,
+              Yiyan Wang,
+              Yubo Wang,
+              <a href="http://zsdonghao.github.io/">Hao Dong</a>
+              <br>
+              <em>CVPR 2024</em>
+              <br>
+              <b style="color: red;">Spotlight Presentation</b> at ICRA 2024 Workshop on Deformable Object Manipulation
+              <br>
+              <a href="https://warshallrho.github.io/unigarmentmanip/">project page</a>
+              /
+              <a href="https://arxiv.org/abs/2405.06903">paper</a>
+<!--              paper (coming soon)-->
+              /
+              <a href="https://github.com/luhr2003/UniGarmentManip/">code</a>
+<!--              code (coming soon)-->
+              /
+<!--              video (coming soon)-->
+              <a href="https://www.youtube.com/watch?v=N5NYt-XJDOs">video</a>
+              <p></p>
+              <p>We propose to learn dense visual correspondence for diverse garment manipulation tasks with category-level generalization using only one- or few-shot human demonstrations. </p>
+            </td>
+          </tr>
+
+          <tr onmouseout="clutter_stop()" onmouseover="clutter_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='clutter_image'>
+                  <img src='images/clutter.png' width="187"></div>
+                <img src='images/clutter.png' width="187">
+              </div>
+              <script type="text/javascript">
+                function clutter_start() {
+                  document.getElementById('clutter_image').style.opacity = "1";
+                }
+
+                function clutter_stop() {
+                  document.getElementById('clutter_image').style.opacity = "0";
+                }
+                clutter_stop()
+              </script>
+            </td>
+
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://lyttttt3333.github.io/broadcast.github.io/">
+              <papertitle>Broadcasting Support Relations Recursively from Local Dynamics for Object Retrieval in Clutters
+              </papertitle>
+              </a>
+              <br>
+              Yitong Li*,
+              <strong>Ruihai Wu</strong>*,
+              Haoran Lu,
+              <a href="https://tritiumr.github.io/">Chuanruo Ning</a>,
+              <a href="https://sxy7147.github.io/">Yan Shen</a>,
+              <a href="https://www.robots.ox.ac.uk/~guanqi/">Guanqi Zhan</a>,
+              <a href="http://zsdonghao.github.io/">Hao Dong</a>
+              <br>
+              <em>RSS 2024</em>
+              <br>
+              <a href="https://lyttttt3333.github.io/broadcast.github.io/">project page</a>
+              /
+              <a href="https://arxiv.org/abs/2406.02283">paper</a>
+<!--              paper (coming soon)-->
+              /
+              <a href="https://github.com/lyttttt3333/Broadcast_Support_Relation">code</a>
+<!--              code (coming soon)-->
+              /
+<!--              video (coming soon)-->
+              <a href="https://youtu.be/vUCDVfrvOrg">video</a>
+              <p></p>
+              <p>In this paper, we study retrieving objects in complicated clutters via a novel method of recursively broadcasting the accurate local dynamics to build a support relation graph of the whole scene, which largely reduces the complexity of the support relation inference and improves the accuracy. </p>
+            </td>
+          </tr>
 
           <tr onmouseout="roboexp_stop()" onmouseover="roboexp_start()">
             <td style="padding:20px;width:25%;vertical-align:middle">
@@ -101,57 +201,6 @@
             </td>
           </tr>
 
-
-
-          <tr onmouseout="clutter_stop()" onmouseover="clutter_start()">
-            <td style="padding:20px;width:25%;vertical-align:middle">
-              <div class="one">
-                <div class="two" id='clutter_image'>
-                  <img src='images/clutter.png' width="187"></div>
-                <img src='images/clutter.png' width="187">
-              </div>
-              <script type="text/javascript">
-                function clutter_start() {
-                  document.getElementById('clutter_image').style.opacity = "1";
-                }
-
-                function clutter_stop() {
-                  document.getElementById('clutter_image').style.opacity = "0";
-                }
-                clutter_stop()
-              </script>
-            </td>
-
-            <td style="padding:20px;width:75%;vertical-align:middle">
-              <a href="https://lyttttt3333.github.io/broadcast.github.io/">
-              <papertitle>Broadcasting Support Relations Recursively from Local Dynamics for Object Retrieval in Clutters
-              </papertitle>
-              </a>
-              <br>
-              Yitong Li*,
-              <strong>Ruihai Wu</strong>*,
-              Haoran Lu,
-              <a href="https://tritiumr.github.io/">Chuanruo Ning</a>,
-              <a href="https://sxy7147.github.io/">Yan Shen</a>,
-              <a href="https://www.robots.ox.ac.uk/~guanqi/">Guanqi Zhan</a>,
-              <a href="http://zsdonghao.github.io/">Hao Dong</a>
-              <br>
-              <em>RSS 2024</em>
-              <br>
-              <a href="https://lyttttt3333.github.io/broadcast.github.io/">project page</a>
-              /
-              <a href="https://arxiv.org/abs/2406.02283">paper</a>
-<!--              paper (coming soon)-->
-              /
-              <a href="https://github.com/lyttttt3333/Broadcast_Support_Relation">code</a>
-<!--              code (coming soon)-->
-              /
-<!--              video (coming soon)-->
-              <a href="https://youtu.be/vUCDVfrvOrg">video</a>
-              <p></p>
-              <p>In this paper, we study retrieving objects in complicated clutters via a novel method of recursively broadcasting the accurate local dynamics to build a support relation graph of the whole scene, which largely reduces the complexity of the support relation inference and improves the accuracy. </p>
-            </td>
-          </tr>
 
 
           <tr onmouseout="preafford_stop()" onmouseover="preafford_start()">
@@ -255,56 +304,6 @@
               <a href="https://youtu.be/ZqEgs5ZJAIc">video</a>
               <p></p>
               <p>We present UniGarment, a benchmark designed for garment manipulation within realistic 3D indoor scenes. Our benchmark encompasses a diverse range of garment types, robotic systems and manipulators including dexterous hands. The multitude of tasks included in the benchmark enables further exploration of the interactions between garments, deformable objects, rigid bodies, fluids, and avatars.  </p>
-            </td>
-          </tr>
-
-          <tr onmouseout="garment_stop()" onmouseover="garment_start()">
-            <td style="padding:20px;width:25%;vertical-align:middle">
-              <div class="one">
-                <div class="two" id='garment_image'>
-                  <img src='images/garment.jpg' width="187"></div>
-                <img src='images/garment.jpg' width="187">
-              </div>
-              <script type="text/javascript">
-                function garment_start() {
-                  document.getElementById('garment_image').style.opacity = "1";
-                }
-
-                function garment_stop() {
-                  document.getElementById('garment_image').style.opacity = "0";
-                }
-                garment_stop()
-              </script>
-            </td>
-
-            <td style="padding:20px;width:75%;vertical-align:middle">
-              <a href="https://warshallrho.github.io/unigarmentmanip/">
-              <papertitle>UniGarmentManip: A Unified Framework for Category-Level Garment Manipulation via Dense Visual Correspondence
-              </papertitle>
-              </a>
-              <br>
-              <strong>Ruihai Wu</strong>*,
-              Haoran Lu*,
-              Yiyan Wang,
-              Yubo Wang,
-              <a href="http://zsdonghao.github.io/">Hao Dong</a>
-              <br>
-              <em>CVPR 2024</em>
-              <br>
-              <b style="color: red;">Spotlight Presentation</b> at ICRA 2024 Workshop on Deformable Object Manipulation
-              <br>
-              <a href="https://warshallrho.github.io/unigarmentmanip/">project page</a>
-              /
-              <a href="https://arxiv.org/abs/2405.06903">paper</a>
-<!--              paper (coming soon)-->
-              /
-              <a href="https://github.com/luhr2003/UniGarmentManip/">code</a>
-<!--              code (coming soon)-->
-              /
-<!--              video (coming soon)-->
-              <a href="https://www.youtube.com/watch?v=N5NYt-XJDOs">video</a>
-              <p></p>
-              <p>We propose to learn dense visual correspondence for diverse garment manipulation tasks with category-level generalization using only one- or few-shot human demonstrations. </p>
             </td>
           </tr>
 
