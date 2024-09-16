@@ -203,6 +203,49 @@
 
 
 
+          <tr onmouseout="naturalvlm_stop()" onmouseover="naturalvlm_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='naturalvlm_image'>
+                  <img src='images/naturalVLM.gif' width="187"></div>
+                <img src='images/naturalVLM.gif' width="187">
+              </div>
+              <script type="text/javascript">
+                function naturalvlm_start() {
+                  document.getElementById('naturalvlm_image').style.opacity = "1";
+                }
+
+                function naturalvlm_stop() {
+                  document.getElementById('naturalvlm_image').style.opacity = "0";
+                }
+                naturalvlm_stop()
+              </script>
+            </td>
+
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://sites.google.com/view/naturalvlm">
+              <papertitle>NaturalVLM: Leveraging Fine-grained Natural Language for Affordance-Guided Visual Manipulation
+              </papertitle>
+              </a>
+              <br>
+              Ran Xu*,
+              <a href="https://sxy7147.github.io/">Yan Shen*</a>,
+              <strong>Ruihai Wu</strong>,
+              <a href="https://scholar.google.com/citations?hl=en&user=vkQ5_LIAAAAJ">Xiaoqi Li</a>,
+              <a href="http://zsdonghao.github.io/">Hao Dong</a>
+              <br>
+              <em>RA-L 2024</em>
+              <br>
+              <a href="https://sites.google.com/view/naturalvlm">project page</a>
+              /
+              <a href="https://arxiv.org/abs/2403.08355">paper</a>
+              /
+              <a href="https://drive.google.com/file/d/1BOryJUt2xqvLryvByVBtZ1Ym_R3HRkRK/view">video</a>
+              <p></p>
+              <p>We introduce a comprehensive benchmark, NaturalVLM, comprising 15 distinct manipulation tasks, containing over 4500 episodes meticulously annotated with fine-grained language instructions. Besides, we propose a novel learning framework that completes the manipulation task step-by-step according to the fine-grained instructions. </p>
+            </td>
+          </tr>
+
           <tr onmouseout="preafford_stop()" onmouseover="preafford_start()">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
