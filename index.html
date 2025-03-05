@@ -50,6 +50,56 @@
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 
 
+          <tr onmouseout="garmentpile_stop()" onmouseover="garmentpile_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='garmentpile_image'>
+                  <img src='images/garmentpile.jpg' width="187"></div>
+                <img src='images/garmentpile.jpg' width="187">
+              </div>
+              <script type="text/javascript">
+                function garmentpile_start() {
+                  document.getElementById('garmentpile_image').style.opacity = "1";
+                }
+
+                function garmentpile_stop() {
+                  document.getElementById('garmentpile_image').style.opacity = "0";
+                }
+                garmentpile_stop()
+              </script>
+            </td>
+
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://garmentpile.github.io/">
+              <papertitle>GarmentPile: Point-Level Visual Affordance Guided Retrieval and Adaptation for Cluttered Garments Manipulation
+              </papertitle>
+              </a>
+              <br>
+              <strong>Ruihai Wu</strong>*,
+              <a href="https://alwaysleepy.github.io/">Ziyu Zhu</a>*,
+              Yuran Wang*,
+              <a href="https://yuechen0614.github.io/homepage/">Yue Chen</a>,
+              Jiarui Wang,
+              <a href="http://zsdonghao.github.io/">Hao Dong</a>
+              <br>
+              <em>CVPR 2025</em>
+              <br>
+              <a href="https://garmentpile.github.io/">project page</a>
+              /
+<!--              <a href="https://arxiv.org/abs/2502.11124">paper</a>-->
+              paper (coming soon)
+              /
+              <a href="https://github.com/AlwaySleepy/Garment-Pile">code</a>
+<!--              code (coming soon)-->
+              /
+<!--              video (coming soon)-->
+              <a href="https://garmentpile.github.io/static/videos/Introduction.mp4">video</a>
+              <p></p>
+              <p>We propose adaptive assets, environment and policy to manipulate articulated objects with diverse mechanisms. </p>
+            </td>
+          </tr>
+
+
           <tr onmouseout="adamanip_stop()" onmouseover="adamanip_start()">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
