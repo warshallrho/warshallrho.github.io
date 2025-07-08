@@ -256,6 +256,59 @@
           </tr>
 
 
+          <tr onmouseout="manual2skill_stop()" onmouseover="manual2skill_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='manual2skill_image'>
+                  <img src='images/manual2skill.png' width="187"></div>
+                <img src='images/manual2skill.png' width="187">
+              </div>
+              <script type="text/javascript">
+                function manual2skill_start() {
+                  document.getElementById('manual2skill_image').style.opacity = "1";
+                }
+
+                function manual2skill_stop() {
+                  document.getElementById('manual2skill_image').style.opacity = "0";
+                }
+                manual2skill_stop()
+              </script>
+            </td>
+
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://owensun2004.github.io/Furniture-Assembly-Web/">
+              <papertitle>Manual2Skill: Learning to Read Manuals and Acquire Robotic Skills for Furniture Assembly Using Vision-Language Models
+              </papertitle>
+              </a>
+              <br>
+              <a href="https://crtie.github.io/">Chenrui Tie</a>*,
+              <a href="https://owensun2004.github.io/">Shengxiang Sun</a>*,
+              <a href="https://www.linkedin.com/in/jinxuan-zhu-08a8972b7/">Jinxuan Zhu</a>,
+              <a href="https://lew1sin.github.io/">Yiwei Liu</a>,
+              <a href="https://borisguo6.github.io/">Jingxiang Guo</a>,
+              <a href="https://blog.csdn.net/xyyxyyx">Yue Hu</a>,
+              <a href="https://chenhn02.github.io/">Haonan Chen</a>,
+              <a href="https://sgtvincent.github.io/">Junting Chen</a>,
+              <strong>Ruihai Wu</strong>,
+              <a href="https://linsats.github.io/">Lin Shao</a>
+              <br>
+              <em>RSS 2025</em>
+              <br>
+              <a href="https://owensun2004.github.io/Furniture-Assembly-Web/">project page</a>
+              /
+              <a href="https://arxiv.org/abs/2502.10090">paper</a>
+<!--              paper (coming soon)-->
+              /
+              <a href="https://github.com/owensun2004/Manual2Skill">code</a>
+<!--              code (coming soon)-->
+              /
+<!--              video (coming soon)-->
+              <a href="https://owensun2004.github.io/Furniture-Assembly-Web/static/videos/Manual2Skill_new.mp4">video</a>
+              <p></p>
+              <p>We propose a novel framework that enables VLM to understand human-designed manuals and acquire robotic skills for furniture assembly tasks. </p>
+            </td>
+          </tr>
+
           <tr onmouseout="roboverse_stop()" onmouseover="roboverse_start()">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
@@ -268,7 +321,7 @@
                   document.getElementById('roboverse_image').style.opacity = "1";
                 }
 
-                function etseed_stop() {
+                function roboverse_stop() {
                   document.getElementById('roboverse_image').style.opacity = "0";
                 }
                 roboverse_stop()
