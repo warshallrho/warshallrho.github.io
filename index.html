@@ -160,6 +160,51 @@
             </td>
           </tr>
 
+
+        <tr onmouseout="robowmbench_stop()" onmouseover="robowmbench_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='robowmbench_image'>
+                  <img src='images/robowmbench.png' width="187"></div>
+                <img src='images/robowmbench.png' width="187">
+              </div>
+              <script type="text/javascript">
+                function robowmbench_start() {
+                  document.getElementById('robowmbench_image').style.opacity = "1";
+                }
+
+                function robowmbench_stop() {
+                  document.getElementById('robowmbench_image').style.opacity = "0";
+                }
+                robowmbench_stop()
+              </script>
+            </td>
+
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://robowm-bench.github.io/RoboWM-Bench/">
+              <papertitle> RoboWM-Bench: A Benchmark for Evaluating World Models in Robotic Manipulation
+              </papertitle>
+              </a>
+              <br>
+              Feng Jiang, Yang Chen, Kyle Xu, Yuchen Liu, Haifeng Wang, Zhenhao Shen, Jasper Lu, Shengze Huang, Yuanfei Wang, Chen Xie,
+              <strong>Ruihai Wu</strong>+
+<!--              <br>-->
+<!--              <em>ICLR 2026</em>-->
+              <br>
+              <b style="color: red;">Best Paper Award</b> at <a href="https://cvpr26wmas.github.io/cvpr26wmas.html">CVPR 2026 Workshop on World Models Meet Active Sensing and Closed-Loop Planning</a>
+              <br>
+              <a href="https://robowm-bench.github.io/RoboWM-Bench/">project page</a>
+              /
+              <a href="https://arxiv.org/abs/2604.19092">paper</a>
+              /
+              <a href="https://github.com/fffstrong/RoboWM-Bench">code</a>
+              /
+              <a href="https://robowm-bench.github.io/RoboWM-Bench/static/videos/5b2cd841f6cce71fa787523f08e2f56c.mp4">video</a>
+              <p></p>
+              <p>RoboWM-Bench is a manipulation-centric benchmark for embodiment-grounded evaluation of video world models. It converts generated behaviors from both human-hand and robotic manipulation videos into embodied action sequences and validates them through robotic execution.  </p>
+            </td>
+          </tr>
+
         <tr onmouseout="pa3ff_stop()" onmouseover="pa3ff_start()">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
