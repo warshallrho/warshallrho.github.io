@@ -62,6 +62,53 @@
         </tbody></table>
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 
+         <tr onmouseout="lehome_stop()" onmouseover="lehome_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='lehome_image'>
+                  <img src='images/lehome.jpg' width="187"></div>
+                <img src='images/lehome.jpg' width="187">
+              </div>
+              <script type="text/javascript">
+                function lehome_start() {
+                  document.getElementById('lehome_image').style.opacity = "1";
+                }
+
+                function lehome_stop() {
+                  document.getElementById('lehome_image').style.opacity = "0";
+                }
+                lehome_stop()
+              </script>
+            </td>
+
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://biadapt-project.github.io/">
+              <papertitle>LeHome: A Simulation Environment for Deformable Object Manipulation in Household Scenarios
+              </papertitle>
+              </a>
+              <br>
+              <a href="https://isabella4444x.github.io/">Jinxian Zhou</a>*,
+              LeHome Team,
+              <strong>Ruihai Wu</strong>+,
+              <br>
+              <em>ICRA 2026</em>
+              <br>
+              <b style="color: red;">Best Poster Award</b> at <a href="https://romado-workshop.github.io/ROMADO2025.github.io/">IROS 2025 Workshop on Robotic Manipulation of Deformable Objects</a>
+              <br>
+              <a href="https://lehome-web.github.io/">project page</a>
+              /
+              <a href="https://arxiv.org/abs/2604.22363">paper</a>
+              /
+              <a href="https://github.com/lehome-official/lehome">code</a>
+              /
+              <a href="https://lehome-challenge.github.io/">LeHome Challenge</a> at ICRA 2026
+              /
+              <a href="https://lehome-web.github.io/static/assets/video/mainvideo.mp4">video</a>
+              <p></p>
+              <p>We propose LeHome, a framework that is able to simulate 6 categories of deformable objects in household scenarios with low-cost robots. </p>
+            </td>
+          </tr>
+
         <tr onmouseout="biadapt_stop()" onmouseover="biadapt_start()">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
