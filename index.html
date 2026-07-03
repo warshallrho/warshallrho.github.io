@@ -62,6 +62,54 @@
         </tbody></table>
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 
+        <tr onmouseout="biadapt_stop()" onmouseover="biadapt_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='biadapt_image'>
+                  <img src='images/biadapt.jpg' width="187"></div>
+                <img src='images/biadapt.jpg' width="187">
+              </div>
+              <script type="text/javascript">
+                function biadapt_start() {
+                  document.getElementById('biadapt_image').style.opacity = "1";
+                }
+
+                function biadapt_stop() {
+                  document.getElementById('biadapt_image').style.opacity = "0";
+                }
+                biadapt_stop()
+              </script>
+            </td>
+
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://biadapt-project.github.io/">
+              <papertitle>Bi-Adapt: Few-shot Bimanual Adaptation for Novel Categories of 3D Objects via Semantic Correspondence
+              </papertitle>
+              </a>
+              <br>
+              <a href="https://alwaysleepy.github.io/">Jinxian Zhou</a>*,
+              <strong>Ruihai Wu</strong>*,
+              Yiwei Liu,
+              Yiwen Hou,
+              Xunzhe Zhou,
+              Checheng Yu,
+              <a href="https://linsats.github.io/">Lin Shao</a>
+              <br>
+              <em>ICRA 2026</em>
+              <br>
+               <b style="color: red;">Best Paper Award Finalist</b>, <b style="color: red;">Best Paper Award on Best Paper Award on Robot Manipulation and Locomotion Finalist</b>
+              <br>
+              <a href="https://biadapt-project.github.io/">project page</a>
+              /
+              <a href="https://arxiv.org/abs/2602.08425">paper</a>
+              /
+              <a href="https://github.com/isabella4444x/Biadapt">code</a>
+              /
+              <a href="https://youtu.be/y9AEt3q7EWg">video</a>
+              <p></p>
+              <p>For the generalization and stable coordination of complex bimanual manipulation tasks, we propose to use correspondence from foundation models for efficient adaptation of affordance and action. </p>
+            </td>
+          </tr>
 
           <tr onmouseout="garmentpile_stop()" onmouseover="garmentpile_start()">
             <td style="padding:20px;width:25%;vertical-align:middle">
@@ -102,12 +150,9 @@
               <a href="https://garmentpile.github.io/">project page</a>
               /
               <a href="https://arxiv.org/abs/2503.09243">paper</a>
-<!--              paper (coming soon)-->
               /
               <a href="https://github.com/AlwaySleepy/Garment-Pile">code</a>
-<!--              code (coming soon)-->
               /
-<!--              video (coming soon)-->
               <a href="https://garmentpile.github.io/static/videos/Introduction.mp4">video</a>
               <p></p>
               <p>We propose to learn point-level affordance to model the complex space and multi-modal manipulation candidates of garment piles, with novel designs for the awareness of garment geometry, structure, inter-object relations, and further adaptation. </p>
@@ -170,55 +215,55 @@
           </tr>
 
 
-          <tr onmouseout="adarpg_stop()" onmouseover="adarpg_start()">
-            <td style="padding:20px;width:25%;vertical-align:middle">
-              <div class="one">
-                <div class="two" id='adarpg_image'>
-                  <img src='images/AdaRPG.png' width="187"></div>
-                <img src='images/AdaRPG.png' width="187">
-              </div>
-              <script type="text/javascript">
-                function adarpg_start() {
-                  document.getElementById('adarpg_image').style.opacity = "1";
-                }
+<!--          <tr onmouseout="adarpg_stop()" onmouseover="adarpg_start()">-->
+<!--            <td style="padding:20px;width:25%;vertical-align:middle">-->
+<!--              <div class="one">-->
+<!--                <div class="two" id='adarpg_image'>-->
+<!--                  <img src='images/AdaRPG.png' width="187"></div>-->
+<!--                <img src='images/AdaRPG.png' width="187">-->
+<!--              </div>-->
+<!--              <script type="text/javascript">-->
+<!--                function adarpg_start() {-->
+<!--                  document.getElementById('adarpg_image').style.opacity = "1";-->
+<!--                }-->
 
-                function adarpg_stop() {
-                  document.getElementById('adarpg_image').style.opacity = "0";
-                }
-                adarpg_stop()
-              </script>
-            </td>
+<!--                function adarpg_stop() {-->
+<!--                  document.getElementById('adarpg_image').style.opacity = "0";-->
+<!--                }-->
+<!--                adarpg_stop()-->
+<!--              </script>-->
+<!--            </td>-->
 
-            <td style="padding:20px;width:75%;vertical-align:middle">
-              <a href="https://adarpg.github.io/">
-              <papertitle>AdaRPG: Adaptive Articulated Object Manipulation On The Fly with Foundation Model Reasoning and Part Grounding
-              </papertitle>
-              </a>
-              <br>
-              Xiaojie Zhang*,
-              <a href="https://yuanfei-wang.github.io/">Yuanfei Wang</a>*,
-              <strong>Ruihai Wu</strong>*,
-              Kunqi Xu,
-              Yu Li,
-              <a href="http://zsdonghao.github.io/">Hao Dong</a>,
-              Zhaofeng He
-              <br>
-              <em>ICCV 2025</em>
-              <br>
-              <a href="https://adarpg.github.io/">project page</a>
-              /
-              <a href="https://arxiv.org/abs/2507.18276">paper</a>
-<!--              paper (coming soon)-->
-              /
-<!--              <a href="https://github.com/yuanfei-Wang/AdaManip/">code</a>-->
-              code (coming soon)
-              /
-              video (coming soon)
-<!--              <a href="https://www.youtube.com/watch?v=YPJsvSO83RE">video</a>-->
-              <p></p>
-              <p>We propose AdaRPG, a novel framework that leverages foundation models to extract object parts, which exhibit greater local geometric similarity than entire objects, thereby enhancing visual affordance generalization for functional primitive skills. </p>
-            </td>
-          </tr>
+<!--            <td style="padding:20px;width:75%;vertical-align:middle">-->
+<!--              <a href="https://adarpg.github.io/">-->
+<!--              <papertitle>AdaRPG: Adaptive Articulated Object Manipulation On The Fly with Foundation Model Reasoning and Part Grounding-->
+<!--              </papertitle>-->
+<!--              </a>-->
+<!--              <br>-->
+<!--              Xiaojie Zhang*,-->
+<!--              <a href="https://yuanfei-wang.github.io/">Yuanfei Wang</a>*,-->
+<!--              <strong>Ruihai Wu</strong>*,-->
+<!--              Kunqi Xu,-->
+<!--              Yu Li,-->
+<!--              <a href="http://zsdonghao.github.io/">Hao Dong</a>,-->
+<!--              Zhaofeng He-->
+<!--              <br>-->
+<!--              <em>ICCV 2025</em>-->
+<!--              <br>-->
+<!--              <a href="https://adarpg.github.io/">project page</a>-->
+<!--              /-->
+<!--              <a href="https://arxiv.org/abs/2507.18276">paper</a>-->
+<!--&lt;!&ndash;              paper (coming soon)&ndash;&gt;-->
+<!--              /-->
+<!--&lt;!&ndash;              <a href="https://github.com/yuanfei-Wang/AdaManip/">code</a>&ndash;&gt;-->
+<!--              code (coming soon)-->
+<!--              /-->
+<!--              video (coming soon)-->
+<!--&lt;!&ndash;              <a href="https://www.youtube.com/watch?v=YPJsvSO83RE">video</a>&ndash;&gt;-->
+<!--              <p></p>-->
+<!--              <p>We propose AdaRPG, a novel framework that leverages foundation models to extract object parts, which exhibit greater local geometric similarity than entire objects, thereby enhancing visual affordance generalization for functional primitive skills. </p>-->
+<!--            </td>-->
+<!--          </tr>-->
 
 
           <tr onmouseout="adamanip_stop()" onmouseover="adamanip_start()">
