@@ -161,6 +161,51 @@
           </tr>
 
 
+        <tr onmouseout="worldcomposer_stop()" onmouseover="worldcomposer_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='worldcomposer_image'>
+                  <img src='images/worldcomposer.png' width="187"></div>
+                <img src='images/worldcomposer.png' width="187">
+              </div>
+              <script type="text/javascript">
+                function worldcomposer_start() {
+                  document.getElementById('worldcomposer_image').style.opacity = "1";
+                }
+
+                function worldcomposer_stop() {
+                  document.getElementById('worldcomposer_image').style.opacity = "0";
+                }
+                worldcomposer_stop()
+              </script>
+            </td>
+
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://stubborn111.github.io/WorldComposer/">
+              <papertitle> WorldComposer: Generative High-Fidelity Simulation with Digital Cousins for Generalizable Robot Learning and Evaluation
+              </papertitle>
+              </a>
+              <br>
+              Jasper Lu, Zhenhao Shen, Yuanfei Wang, Shugao Liu, Shengqiang Xu, Shawn Xie, Kyle Xu, Feng Jiang, Jade Yang, Chen Xie,
+              <strong>Ruihai Wu</strong>+
+<!--              <br>-->
+<!--              <em>ICLR 2026</em>-->
+              <br>
+              <b style="color: red;">Best Paper Award</b> at <a href="https://awesomedigitaltwin.github.io/2026_ICRA.html">ICRA 2026 Workshop on Generative Digital Twins for Real2Sim and Sim2Real Transfer in Robotics</a>
+              <br>
+              <a href="https://stubborn111.github.io/WorldComposer/">project page</a>
+              /
+              <a href="https://arxiv.org/abs/2604.15805v1">paper</a>
+              /
+              <a href="https://github.com/jaber628/WorldComposer">code</a>
+              /
+              <a href="https://stubborn111.github.io/WorldComposer/static/videos/video.mp4">video</a>
+              <p></p>
+              <p>WorldComposer is a novel approach for generative high-fidelity simulation with digital cousins for generalizable robot learning and evaluation.  </p>
+            </td>
+          </tr>
+
+
         <tr onmouseout="robowmbench_stop()" onmouseover="robowmbench_start()">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
@@ -198,8 +243,8 @@
               <a href="https://arxiv.org/abs/2604.19092">paper</a>
               /
               <a href="https://github.com/fffstrong/RoboWM-Bench">code</a>
-              /
-              <a href="https://robowm-bench.github.io/RoboWM-Bench/static/videos/5b2cd841f6cce71fa787523f08e2f56c.mp4">video</a>
+<!--              /-->
+<!--              <a href="https://robowm-bench.github.io/RoboWM-Bench/static/videos/5b2cd841f6cce71fa787523f08e2f56c.mp4">video</a>-->
               <p></p>
               <p>RoboWM-Bench is a manipulation-centric benchmark for embodiment-grounded evaluation of video world models. It converts generated behaviors from both human-hand and robotic manipulation videos into embodied action sequences and validates them through robotic execution.  </p>
             </td>
